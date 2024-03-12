@@ -8,7 +8,33 @@ declare module "vn-local-plus" {
   export function getWardByCode(code: string): any;
   export function getDistrictsByProvinceCode(provinceCode: string): any[];
   export function getWardsByDistrictCode(districtCode: string): any[];
-  export function searchAndPaginateDistricts(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
-  export function searchAndPaginateProvinces(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
-  export function searchAndPaginateWards(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
+  export function searchAndPaginateDistricts({
+    searchText,
+    page,
+    pageSize,
+  }: {
+    searchText?: string;
+    page?: number;
+    pageSize?: number;
+  }): Promise<any[] | null>;
+
+  export function searchAndPaginateProvinces({
+    searchText,
+    page,
+    pageSize,
+  }: {
+    searchText?: string;
+    page?: number;
+    pageSize?: number;
+  }): Promise<any[] | null>;
+
+  export function searchAndPaginateWards({
+    searchText,
+    page,
+    pageSize,
+  }: {
+    searchText?: string;
+    page?: number;
+    pageSize?: number;
+  }): Promise<any[] | null>;
 }

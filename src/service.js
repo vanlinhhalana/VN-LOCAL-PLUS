@@ -1,20 +1,25 @@
 const fs = require("fs-extra");
-const { stringToSlug } = require('./helper');
-const path = require('path');
+const { stringToSlug } = require("./helper");
+const path = require("path");
 
 /**
- * Searches and paginates districts based on the provided search text.
- * @param {string} searchText The text to search for within the "name" field of districts.
- * @param {number} page The page number to retrieve.
- * @param {number} pageSize The number of districts per page.
- * @returns {Promise<Array<Object>|null>} A promise that resolves with an array of districts matching the search criteria for the specified page,
- * or null if an error occurs.
+ * Search and paginate through a list of Districts.
+ *
+ * @param {Object} options - Options object.
+ * @param {string} [options.searchText] - The text to search for within ward names.
+ * @param {number} [options.page] - The page number to retrieve, default value is 1.
+ * @param {number} [options.pageSize] - The number of wards per page, default value is 20.
+ * @returns {Promise<Array<any> | null>} - A promise that resolves to an array containing the data for the current page.
+ * @throws {Error} - If an error occurs during the process.
  */
-async function searchAndPaginateDistricts(searchText, page = 1, pageSize = 10) {
+async function searchAndPaginateDistricts(
+  searchText = "",
+  page = 1,
+  pageSize = 10
+) {
   try {
-
     // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, 'jsonFiles', 'districts.json');
+    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "districts.json");
 
     // Read data from the JSON file
     const jsonData = await fs.readJson(jsonFilePath);
@@ -35,24 +40,28 @@ async function searchAndPaginateDistricts(searchText, page = 1, pageSize = 10) {
 
     return pageData;
   } catch (error) {
-    console.error("Error:", error);
-    return [];
+    throw new Error(error);
   }
 }
 
 /**
- * Searches and paginates wards based on the provided search text.
- * @param {string} searchText The text to search for within the "name" field of districts.
- * @param {number} page The page number to retrieve.
- * @param {number} pageSize The number of districts per page.
- * @returns {Promise<Array<Object>|null>} A promise that resolves with an array of districts matching the search criteria for the specified page,
- * or null if an error occurs.
+ * Search and paginate through a list of wards.
+ *
+ * @param {Object} options - Options object.
+ * @param {string} [options.searchText] - The text to search for within ward names.
+ * @param {number} [options.page] - The page number to retrieve, default value is 1.
+ * @param {number} [options.pageSize] - The number of wards per page, default value is 20.
+ * @returns {Promise<Array<any> | null>} - A promise that resolves to an array containing the data for the current page.
+ * @throws {Error} - If an error occurs during the process.
  */
-async function searchAndPaginateWards(searchText, page = 1, pageSize = 10) {
+async function searchAndPaginateWards({
+  searchText = "",
+  page = 1,
+  pageSize = 20,
+}) {
   try {
-
     // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, 'jsonFiles', 'wards.json');
+    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "wards.json");
 
     // Read data from the JSON file
     const jsonData = await fs.readJson(jsonFilePath);
@@ -73,24 +82,28 @@ async function searchAndPaginateWards(searchText, page = 1, pageSize = 10) {
 
     return pageData;
   } catch (error) {
-    console.error("Error:", error);
-    return [];
+    throw new Error(error);
   }
 }
 
 /**
- * Searches and paginates provinces based on the provided search text.
- * @param {string} searchText The text to search for within the "name" field of districts.
- * @param {number} page The page number to retrieve.
- * @param {number} pageSize The number of districts per page.
- * @returns {Promise<Array<Object>|null>} A promise that resolves with an array of districts matching the search criteria for the specified page,
- * or null if an error occurs.
+ * Search and paginate through a list of Provinces.
+ *
+ * @param {Object} options - Options object.
+ * @param {string} [options.searchText] - The text to search for within ward names.
+ * @param {number} [options.page] - The page number to retrieve, default value is 1.
+ * @param {number} [options.pageSize] - The number of wards per page, default value is 20.
+ * @returns {Promise<Array<any> | null>} - A promise that resolves to an array containing the data for the current page
+ * @throws {Error} - If an error occurs during the process.
  */
-async function searchAndPaginateProvinces(searchText, page = 1, pageSize = 10) {
+async function searchAndPaginateProvinces(
+  searchText = "",
+  page = 1,
+  pageSize = 20
+) {
   try {
-
     // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, 'jsonFiles', 'provinces.json');
+    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "provinces.json");
 
     // Read data from the JSON file
     const jsonData = await fs.readJson(jsonFilePath);
@@ -111,9 +124,12 @@ async function searchAndPaginateProvinces(searchText, page = 1, pageSize = 10) {
 
     return pageData;
   } catch (error) {
-    console.error("Error:", error);
-    return [];
+    throw new Error(error);
   }
 }
 
-module.exports = { searchAndPaginateDistricts, searchAndPaginateWards, searchAndPaginateProvinces };
+module.exports = {
+  searchAndPaginateDistricts,
+  searchAndPaginateWards,
+  searchAndPaginateProvinces,
+};

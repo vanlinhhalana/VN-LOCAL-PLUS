@@ -1,6 +1,6 @@
 const {searchAndPaginateDistricts, searchAndPaginateWards} = require('./index');
 
 (async()=>{
-    const rs = await searchAndPaginateWards('ho', 1, 2);
+    const rs = await searchAndPaginateWards({});
     console.log('🎯 ~ file: test.js:7 ~ rs:', rs)
 })()
