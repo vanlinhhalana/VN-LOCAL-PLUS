@@ -5,7 +5,7 @@ https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/
 ## Install
 
 ```
-$ npm install @natpkg/vn-local
+$ npm i vn-local-plus
 ```
 
 ## Functions
