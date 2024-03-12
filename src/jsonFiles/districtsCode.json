@@ -1,0 +1,6352 @@
+{
+  "100": {
+    "code": "100",
+    "name": "Huyện Điện Biên",
+    "slug": "huyen-dien-bien",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Điện Biên, Tỉnh Điện Biên"
+  },
+  "101": {
+    "code": "101",
+    "name": "Huyện Điện Biên Đông",
+    "slug": "huyen-dien-bien-dong",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Điện Biên Đông, Tỉnh Điện Biên"
+  },
+  "102": {
+    "code": "102",
+    "name": "Huyện Mường Ảng",
+    "slug": "huyen-muong-ang",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Mường Ảng, Tỉnh Điện Biên"
+  },
+  "103": {
+    "code": "103",
+    "name": "Huyện Nậm Pồ",
+    "slug": "huyen-nam-po",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Nậm Pồ, Tỉnh Điện Biên"
+  },
+  "105": {
+    "code": "105",
+    "name": "Thành phố Lai Châu",
+    "slug": "thanh-pho-lai-chau",
+    "unit": "Thành phố",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Thành phố Lai Châu, Tỉnh Lai Châu"
+  },
+  "106": {
+    "code": "106",
+    "name": "Huyện Tam Đường",
+    "slug": "huyen-tam-duong",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Tam Đường, Tỉnh Lai Châu"
+  },
+  "107": {
+    "code": "107",
+    "name": "Huyện Mường Tè",
+    "slug": "huyen-muong-te",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Mường Tè, Tỉnh Lai Châu"
+  },
+  "108": {
+    "code": "108",
+    "name": "Huyện Sìn Hồ",
+    "slug": "huyen-sin-ho",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Sìn Hồ, Tỉnh Lai Châu"
+  },
+  "109": {
+    "code": "109",
+    "name": "Huyện Phong Thổ",
+    "slug": "huyen-phong-tho",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Phong Thổ, Tỉnh Lai Châu"
+  },
+  "110": {
+    "code": "110",
+    "name": "Huyện Than Uyên",
+    "slug": "huyen-than-uyen",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Than Uyên, Tỉnh Lai Châu"
+  },
+  "111": {
+    "code": "111",
+    "name": "Huyện Tân Uyên",
+    "slug": "huyen-tan-uyen",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Tân Uyên, Tỉnh Lai Châu"
+  },
+  "112": {
+    "code": "112",
+    "name": "Huyện Nậm Nhùn",
+    "slug": "huyen-nam-nhun",
+    "unit": "Huyện",
+    "provinceCode": "12",
+    "provinceName": "Tỉnh Lai Châu",
+    "fullName": "Huyện Nậm Nhùn, Tỉnh Lai Châu"
+  },
+  "116": {
+    "code": "116",
+    "name": "Thành phố Sơn La",
+    "slug": "thanh-pho-son-la",
+    "unit": "Thành phố",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Thành phố Sơn La, Tỉnh Sơn La"
+  },
+  "118": {
+    "code": "118",
+    "name": "Huyện Quỳnh Nhai",
+    "slug": "huyen-quynh-nhai",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Quỳnh Nhai, Tỉnh Sơn La"
+  },
+  "119": {
+    "code": "119",
+    "name": "Huyện Thuận Châu",
+    "slug": "huyen-thuan-chau",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Thuận Châu, Tỉnh Sơn La"
+  },
+  "120": {
+    "code": "120",
+    "name": "Huyện Mường La",
+    "slug": "huyen-muong-la",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Mường La, Tỉnh Sơn La"
+  },
+  "121": {
+    "code": "121",
+    "name": "Huyện Bắc Yên",
+    "slug": "huyen-bac-yen",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Bắc Yên, Tỉnh Sơn La"
+  },
+  "122": {
+    "code": "122",
+    "name": "Huyện Phù Yên",
+    "slug": "huyen-phu-yen",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Phù Yên, Tỉnh Sơn La"
+  },
+  "123": {
+    "code": "123",
+    "name": "Huyện Mộc Châu",
+    "slug": "huyen-moc-chau",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Mộc Châu, Tỉnh Sơn La"
+  },
+  "124": {
+    "code": "124",
+    "name": "Huyện Yên Châu",
+    "slug": "huyen-yen-chau",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Yên Châu, Tỉnh Sơn La"
+  },
+  "125": {
+    "code": "125",
+    "name": "Huyện Mai Sơn",
+    "slug": "huyen-mai-son",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Mai Sơn, Tỉnh Sơn La"
+  },
+  "126": {
+    "code": "126",
+    "name": "Huyện Sông Mã",
+    "slug": "huyen-song-ma",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Sông Mã, Tỉnh Sơn La"
+  },
+  "127": {
+    "code": "127",
+    "name": "Huyện Sốp Cộp",
+    "slug": "huyen-sop-cop",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Sốp Cộp, Tỉnh Sơn La"
+  },
+  "128": {
+    "code": "128",
+    "name": "Huyện Vân Hồ",
+    "slug": "huyen-van-ho",
+    "unit": "Huyện",
+    "provinceCode": "14",
+    "provinceName": "Tỉnh Sơn La",
+    "fullName": "Huyện Vân Hồ, Tỉnh Sơn La"
+  },
+  "132": {
+    "code": "132",
+    "name": "Thành phố Yên Bái",
+    "slug": "thanh-pho-yen-bai",
+    "unit": "Thành phố",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Thành phố Yên Bái, Tỉnh Yên Bái"
+  },
+  "133": {
+    "code": "133",
+    "name": "Thị xã Nghĩa Lộ",
+    "slug": "thi-xa-nghia-lo",
+    "unit": "Thị xã",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Thị xã Nghĩa Lộ, Tỉnh Yên Bái"
+  },
+  "135": {
+    "code": "135",
+    "name": "Huyện Lục Yên",
+    "slug": "huyen-luc-yen",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Lục Yên, Tỉnh Yên Bái"
+  },
+  "136": {
+    "code": "136",
+    "name": "Huyện Văn Yên",
+    "slug": "huyen-van-yen",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Văn Yên, Tỉnh Yên Bái"
+  },
+  "137": {
+    "code": "137",
+    "name": "Huyện Mù Căng Chải",
+    "slug": "huyen-mu-cang-chai",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Mù Căng Chải, Tỉnh Yên Bái"
+  },
+  "138": {
+    "code": "138",
+    "name": "Huyện Trấn Yên",
+    "slug": "huyen-tran-yen",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Trấn Yên, Tỉnh Yên Bái"
+  },
+  "139": {
+    "code": "139",
+    "name": "Huyện Trạm Tấu",
+    "slug": "huyen-tram-tau",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Trạm Tấu, Tỉnh Yên Bái"
+  },
+  "140": {
+    "code": "140",
+    "name": "Huyện Văn Chấn",
+    "slug": "huyen-van-chan",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Văn Chấn, Tỉnh Yên Bái"
+  },
+  "141": {
+    "code": "141",
+    "name": "Huyện Yên Bình",
+    "slug": "huyen-yen-binh",
+    "unit": "Huyện",
+    "provinceCode": "15",
+    "provinceName": "Tỉnh Yên Bái",
+    "fullName": "Huyện Yên Bình, Tỉnh Yên Bái"
+  },
+  "148": {
+    "code": "148",
+    "name": "Thành phố Hòa Bình",
+    "slug": "thanh-pho-hoa-binh",
+    "unit": "Thành phố",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Thành phố Hòa Bình, Tỉnh Hoà Bình"
+  },
+  "150": {
+    "code": "150",
+    "name": "Huyện Đà Bắc",
+    "slug": "huyen-da-bac",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Đà Bắc, Tỉnh Hoà Bình"
+  },
+  "152": {
+    "code": "152",
+    "name": "Huyện Lương Sơn",
+    "slug": "huyen-luong-son",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Lương Sơn, Tỉnh Hoà Bình"
+  },
+  "153": {
+    "code": "153",
+    "name": "Huyện Kim Bôi",
+    "slug": "huyen-kim-boi",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Kim Bôi, Tỉnh Hoà Bình"
+  },
+  "154": {
+    "code": "154",
+    "name": "Huyện Cao Phong",
+    "slug": "huyen-cao-phong",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Cao Phong, Tỉnh Hoà Bình"
+  },
+  "155": {
+    "code": "155",
+    "name": "Huyện Tân Lạc",
+    "slug": "huyen-tan-lac",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Tân Lạc, Tỉnh Hoà Bình"
+  },
+  "156": {
+    "code": "156",
+    "name": "Huyện Mai Châu",
+    "slug": "huyen-mai-chau",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Mai Châu, Tỉnh Hoà Bình"
+  },
+  "157": {
+    "code": "157",
+    "name": "Huyện Lạc Sơn",
+    "slug": "huyen-lac-son",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Lạc Sơn, Tỉnh Hoà Bình"
+  },
+  "158": {
+    "code": "158",
+    "name": "Huyện Yên Thủy",
+    "slug": "huyen-yen-thuy",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Yên Thủy, Tỉnh Hoà Bình"
+  },
+  "159": {
+    "code": "159",
+    "name": "Huyện Lạc Thủy",
+    "slug": "huyen-lac-thuy",
+    "unit": "Huyện",
+    "provinceCode": "17",
+    "provinceName": "Tỉnh Hoà Bình",
+    "fullName": "Huyện Lạc Thủy, Tỉnh Hoà Bình"
+  },
+  "164": {
+    "code": "164",
+    "name": "Thành phố Thái Nguyên",
+    "slug": "thanh-pho-thai-nguyen",
+    "unit": "Thành phố",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Thành phố Thái Nguyên, Tỉnh Thái Nguyên"
+  },
+  "165": {
+    "code": "165",
+    "name": "Thành phố Sông Công",
+    "slug": "thanh-pho-song-cong",
+    "unit": "Thành phố",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Thành phố Sông Công, Tỉnh Thái Nguyên"
+  },
+  "167": {
+    "code": "167",
+    "name": "Huyện Định Hóa",
+    "slug": "huyen-dinh-hoa",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Định Hóa, Tỉnh Thái Nguyên"
+  },
+  "168": {
+    "code": "168",
+    "name": "Huyện Phú Lương",
+    "slug": "huyen-phu-luong",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Phú Lương, Tỉnh Thái Nguyên"
+  },
+  "169": {
+    "code": "169",
+    "name": "Huyện Đồng Hỷ",
+    "slug": "huyen-dong-hy",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Đồng Hỷ, Tỉnh Thái Nguyên"
+  },
+  "170": {
+    "code": "170",
+    "name": "Huyện Võ Nhai",
+    "slug": "huyen-vo-nhai",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Võ Nhai, Tỉnh Thái Nguyên"
+  },
+  "171": {
+    "code": "171",
+    "name": "Huyện Đại Từ",
+    "slug": "huyen-dai-tu",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Đại Từ, Tỉnh Thái Nguyên"
+  },
+  "172": {
+    "code": "172",
+    "name": "Thị xã Phổ Yên",
+    "slug": "thi-xa-pho-yen",
+    "unit": "Thị xã",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Thị xã Phổ Yên, Tỉnh Thái Nguyên"
+  },
+  "173": {
+    "code": "173",
+    "name": "Huyện Phú Bình",
+    "slug": "huyen-phu-binh",
+    "unit": "Huyện",
+    "provinceCode": "19",
+    "provinceName": "Tỉnh Thái Nguyên",
+    "fullName": "Huyện Phú Bình, Tỉnh Thái Nguyên"
+  },
+  "178": {
+    "code": "178",
+    "name": "Thành phố Lạng Sơn",
+    "slug": "thanh-pho-lang-son",
+    "unit": "Thành phố",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Thành phố Lạng Sơn, Tỉnh Lạng Sơn"
+  },
+  "180": {
+    "code": "180",
+    "name": "Huyện Tràng Định",
+    "slug": "huyen-trang-dinh",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Tràng Định, Tỉnh Lạng Sơn"
+  },
+  "181": {
+    "code": "181",
+    "name": "Huyện Bình Gia",
+    "slug": "huyen-binh-gia",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Bình Gia, Tỉnh Lạng Sơn"
+  },
+  "182": {
+    "code": "182",
+    "name": "Huyện Văn Lãng",
+    "slug": "huyen-van-lang",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Văn Lãng, Tỉnh Lạng Sơn"
+  },
+  "183": {
+    "code": "183",
+    "name": "Huyện Cao Lộc",
+    "slug": "huyen-cao-loc",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Cao Lộc, Tỉnh Lạng Sơn"
+  },
+  "184": {
+    "code": "184",
+    "name": "Huyện Văn Quan",
+    "slug": "huyen-van-quan",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Văn Quan, Tỉnh Lạng Sơn"
+  },
+  "185": {
+    "code": "185",
+    "name": "Huyện Bắc Sơn",
+    "slug": "huyen-bac-son",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Bắc Sơn, Tỉnh Lạng Sơn"
+  },
+  "186": {
+    "code": "186",
+    "name": "Huyện Hữu Lũng",
+    "slug": "huyen-huu-lung",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Hữu Lũng, Tỉnh Lạng Sơn"
+  },
+  "187": {
+    "code": "187",
+    "name": "Huyện Chi Lăng",
+    "slug": "huyen-chi-lang",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Chi Lăng, Tỉnh Lạng Sơn"
+  },
+  "188": {
+    "code": "188",
+    "name": "Huyện Lộc Bình",
+    "slug": "huyen-loc-binh",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Lộc Bình, Tỉnh Lạng Sơn"
+  },
+  "189": {
+    "code": "189",
+    "name": "Huyện Đình Lập",
+    "slug": "huyen-dinh-lap",
+    "unit": "Huyện",
+    "provinceCode": "20",
+    "provinceName": "Tỉnh Lạng Sơn",
+    "fullName": "Huyện Đình Lập, Tỉnh Lạng Sơn"
+  },
+  "193": {
+    "code": "193",
+    "name": "Thành phố Hạ Long",
+    "slug": "thanh-pho-ha-long",
+    "unit": "Thành phố",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thành phố Hạ Long, Tỉnh Quảng Ninh"
+  },
+  "194": {
+    "code": "194",
+    "name": "Thành phố Móng Cái",
+    "slug": "thanh-pho-mong-cai",
+    "unit": "Thành phố",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thành phố Móng Cái, Tỉnh Quảng Ninh"
+  },
+  "195": {
+    "code": "195",
+    "name": "Thành phố Cẩm Phả",
+    "slug": "thanh-pho-cam-pha",
+    "unit": "Thành phố",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thành phố Cẩm Phả, Tỉnh Quảng Ninh"
+  },
+  "196": {
+    "code": "196",
+    "name": "Thành phố Uông Bí",
+    "slug": "thanh-pho-uong-bi",
+    "unit": "Thành phố",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thành phố Uông Bí, Tỉnh Quảng Ninh"
+  },
+  "198": {
+    "code": "198",
+    "name": "Huyện Bình Liêu",
+    "slug": "huyen-binh-lieu",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Bình Liêu, Tỉnh Quảng Ninh"
+  },
+  "199": {
+    "code": "199",
+    "name": "Huyện Tiên Yên",
+    "slug": "huyen-tien-yen",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Tiên Yên, Tỉnh Quảng Ninh"
+  },
+  "200": {
+    "code": "200",
+    "name": "Huyện Đầm Hà",
+    "slug": "huyen-dam-ha",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Đầm Hà, Tỉnh Quảng Ninh"
+  },
+  "201": {
+    "code": "201",
+    "name": "Huyện Hải Hà",
+    "slug": "huyen-hai-ha",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Hải Hà, Tỉnh Quảng Ninh"
+  },
+  "202": {
+    "code": "202",
+    "name": "Huyện Ba Chẽ",
+    "slug": "huyen-ba-che",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Ba Chẽ, Tỉnh Quảng Ninh"
+  },
+  "203": {
+    "code": "203",
+    "name": "Huyện Vân Đồn",
+    "slug": "huyen-van-don",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Vân Đồn, Tỉnh Quảng Ninh"
+  },
+  "205": {
+    "code": "205",
+    "name": "Thị xã Đông Triều",
+    "slug": "thi-xa-dong-trieu",
+    "unit": "Thị xã",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thị xã Đông Triều, Tỉnh Quảng Ninh"
+  },
+  "206": {
+    "code": "206",
+    "name": "Thị xã Quảng Yên",
+    "slug": "thi-xa-quang-yen",
+    "unit": "Thị xã",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Thị xã Quảng Yên, Tỉnh Quảng Ninh"
+  },
+  "207": {
+    "code": "207",
+    "name": "Huyện Cô Tô",
+    "slug": "huyen-co-to",
+    "unit": "Huyện",
+    "provinceCode": "22",
+    "provinceName": "Tỉnh Quảng Ninh",
+    "fullName": "Huyện Cô Tô, Tỉnh Quảng Ninh"
+  },
+  "213": {
+    "code": "213",
+    "name": "Thành phố Bắc Giang",
+    "slug": "thanh-pho-bac-giang",
+    "unit": "Thành phố",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Thành phố Bắc Giang, Tỉnh Bắc Giang"
+  },
+  "215": {
+    "code": "215",
+    "name": "Huyện Yên Thế",
+    "slug": "huyen-yen-the",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Yên Thế, Tỉnh Bắc Giang"
+  },
+  "216": {
+    "code": "216",
+    "name": "Huyện Tân Yên",
+    "slug": "huyen-tan-yen",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Tân Yên, Tỉnh Bắc Giang"
+  },
+  "217": {
+    "code": "217",
+    "name": "Huyện Lạng Giang",
+    "slug": "huyen-lang-giang",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Lạng Giang, Tỉnh Bắc Giang"
+  },
+  "218": {
+    "code": "218",
+    "name": "Huyện Lục Nam",
+    "slug": "huyen-luc-nam",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Lục Nam, Tỉnh Bắc Giang"
+  },
+  "219": {
+    "code": "219",
+    "name": "Huyện Lục Ngạn",
+    "slug": "huyen-luc-ngan",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Lục Ngạn, Tỉnh Bắc Giang"
+  },
+  "220": {
+    "code": "220",
+    "name": "Huyện Sơn Động",
+    "slug": "huyen-son-dong",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Sơn Động, Tỉnh Bắc Giang"
+  },
+  "221": {
+    "code": "221",
+    "name": "Huyện Yên Dũng",
+    "slug": "huyen-yen-dung",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Yên Dũng, Tỉnh Bắc Giang"
+  },
+  "222": {
+    "code": "222",
+    "name": "Huyện Việt Yên",
+    "slug": "huyen-viet-yen",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Việt Yên, Tỉnh Bắc Giang"
+  },
+  "223": {
+    "code": "223",
+    "name": "Huyện Hiệp Hòa",
+    "slug": "huyen-hiep-hoa",
+    "unit": "Huyện",
+    "provinceCode": "24",
+    "provinceName": "Tỉnh Bắc Giang",
+    "fullName": "Huyện Hiệp Hòa, Tỉnh Bắc Giang"
+  },
+  "227": {
+    "code": "227",
+    "name": "Thành phố Việt Trì",
+    "slug": "thanh-pho-viet-tri",
+    "unit": "Thành phố",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Thành phố Việt Trì, Tỉnh Phú Thọ"
+  },
+  "228": {
+    "code": "228",
+    "name": "Thị xã Phú Thọ",
+    "slug": "thi-xa-phu-tho",
+    "unit": "Thị xã",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Thị xã Phú Thọ, Tỉnh Phú Thọ"
+  },
+  "230": {
+    "code": "230",
+    "name": "Huyện Đoan Hùng",
+    "slug": "huyen-doan-hung",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Đoan Hùng, Tỉnh Phú Thọ"
+  },
+  "231": {
+    "code": "231",
+    "name": "Huyện Hạ Hoà",
+    "slug": "huyen-ha-hoa",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Hạ Hoà, Tỉnh Phú Thọ"
+  },
+  "232": {
+    "code": "232",
+    "name": "Huyện Thanh Ba",
+    "slug": "huyen-thanh-ba",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Thanh Ba, Tỉnh Phú Thọ"
+  },
+  "233": {
+    "code": "233",
+    "name": "Huyện Phù Ninh",
+    "slug": "huyen-phu-ninh",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Phù Ninh, Tỉnh Phú Thọ"
+  },
+  "234": {
+    "code": "234",
+    "name": "Huyện Yên Lập",
+    "slug": "huyen-yen-lap",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Yên Lập, Tỉnh Phú Thọ"
+  },
+  "235": {
+    "code": "235",
+    "name": "Huyện Cẩm Khê",
+    "slug": "huyen-cam-khe",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Cẩm Khê, Tỉnh Phú Thọ"
+  },
+  "236": {
+    "code": "236",
+    "name": "Huyện Tam Nông",
+    "slug": "huyen-tam-nong",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Tam Nông, Tỉnh Phú Thọ"
+  },
+  "237": {
+    "code": "237",
+    "name": "Huyện Lâm Thao",
+    "slug": "huyen-lam-thao",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Lâm Thao, Tỉnh Phú Thọ"
+  },
+  "238": {
+    "code": "238",
+    "name": "Huyện Thanh Sơn",
+    "slug": "huyen-thanh-son",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Thanh Sơn, Tỉnh Phú Thọ"
+  },
+  "239": {
+    "code": "239",
+    "name": "Huyện Thanh Thuỷ",
+    "slug": "huyen-thanh-thuy",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Thanh Thuỷ, Tỉnh Phú Thọ"
+  },
+  "240": {
+    "code": "240",
+    "name": "Huyện Tân Sơn",
+    "slug": "huyen-tan-son",
+    "unit": "Huyện",
+    "provinceCode": "25",
+    "provinceName": "Tỉnh Phú Thọ",
+    "fullName": "Huyện Tân Sơn, Tỉnh Phú Thọ"
+  },
+  "243": {
+    "code": "243",
+    "name": "Thành phố Vĩnh Yên",
+    "slug": "thanh-pho-vinh-yen",
+    "unit": "Thành phố",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc"
+  },
+  "244": {
+    "code": "244",
+    "name": "Thành phố Phúc Yên",
+    "slug": "thanh-pho-phuc-yen",
+    "unit": "Thành phố",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Thành phố Phúc Yên, Tỉnh Vĩnh Phúc"
+  },
+  "246": {
+    "code": "246",
+    "name": "Huyện Lập Thạch",
+    "slug": "huyen-lap-thach",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Lập Thạch, Tỉnh Vĩnh Phúc"
+  },
+  "247": {
+    "code": "247",
+    "name": "Huyện Tam Dương",
+    "slug": "huyen-tam-duong",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Tam Dương, Tỉnh Vĩnh Phúc"
+  },
+  "248": {
+    "code": "248",
+    "name": "Huyện Tam Đảo",
+    "slug": "huyen-tam-dao",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Tam Đảo, Tỉnh Vĩnh Phúc"
+  },
+  "249": {
+    "code": "249",
+    "name": "Huyện Bình Xuyên",
+    "slug": "huyen-binh-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Bình Xuyên, Tỉnh Vĩnh Phúc"
+  },
+  "250": {
+    "code": "250",
+    "name": "Huyện Mê Linh",
+    "slug": "huyen-me-linh",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Mê Linh, Thành phố Hà Nội"
+  },
+  "251": {
+    "code": "251",
+    "name": "Huyện Yên Lạc",
+    "slug": "huyen-yen-lac",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Yên Lạc, Tỉnh Vĩnh Phúc"
+  },
+  "252": {
+    "code": "252",
+    "name": "Huyện Vĩnh Tường",
+    "slug": "huyen-vinh-tuong",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc"
+  },
+  "253": {
+    "code": "253",
+    "name": "Huyện Sông Lô",
+    "slug": "huyen-song-lo",
+    "unit": "Huyện",
+    "provinceCode": "26",
+    "provinceName": "Tỉnh Vĩnh Phúc",
+    "fullName": "Huyện Sông Lô, Tỉnh Vĩnh Phúc"
+  },
+  "256": {
+    "code": "256",
+    "name": "Thành phố Bắc Ninh",
+    "slug": "thanh-pho-bac-ninh",
+    "unit": "Thành phố",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Thành phố Bắc Ninh, Tỉnh Bắc Ninh"
+  },
+  "258": {
+    "code": "258",
+    "name": "Huyện Yên Phong",
+    "slug": "huyen-yen-phong",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Yên Phong, Tỉnh Bắc Ninh"
+  },
+  "259": {
+    "code": "259",
+    "name": "Huyện Quế Võ",
+    "slug": "huyen-que-vo",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Quế Võ, Tỉnh Bắc Ninh"
+  },
+  "260": {
+    "code": "260",
+    "name": "Huyện Tiên Du",
+    "slug": "huyen-tien-du",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Tiên Du, Tỉnh Bắc Ninh"
+  },
+  "261": {
+    "code": "261",
+    "name": "Thị xã Từ Sơn",
+    "slug": "thi-xa-tu-son",
+    "unit": "Thị xã",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Thị xã Từ Sơn, Tỉnh Bắc Ninh"
+  },
+  "262": {
+    "code": "262",
+    "name": "Huyện Thuận Thành",
+    "slug": "huyen-thuan-thanh",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Thuận Thành, Tỉnh Bắc Ninh"
+  },
+  "263": {
+    "code": "263",
+    "name": "Huyện Gia Bình",
+    "slug": "huyen-gia-binh",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Gia Bình, Tỉnh Bắc Ninh"
+  },
+  "264": {
+    "code": "264",
+    "name": "Huyện Lương Tài",
+    "slug": "huyen-luong-tai",
+    "unit": "Huyện",
+    "provinceCode": "27",
+    "provinceName": "Tỉnh Bắc Ninh",
+    "fullName": "Huyện Lương Tài, Tỉnh Bắc Ninh"
+  },
+  "268": {
+    "code": "268",
+    "name": "Quận Hà Đông",
+    "slug": "quan-ha-dong",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Hà Đông, Thành phố Hà Nội"
+  },
+  "269": {
+    "code": "269",
+    "name": "Thị xã Sơn Tây",
+    "slug": "thi-xa-son-tay",
+    "unit": "Thị xã",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Thị xã Sơn Tây, Thành phố Hà Nội"
+  },
+  "271": {
+    "code": "271",
+    "name": "Huyện Ba Vì",
+    "slug": "huyen-ba-vi",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Ba Vì, Thành phố Hà Nội"
+  },
+  "272": {
+    "code": "272",
+    "name": "Huyện Phúc Thọ",
+    "slug": "huyen-phuc-tho",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Phúc Thọ, Thành phố Hà Nội"
+  },
+  "273": {
+    "code": "273",
+    "name": "Huyện Đan Phượng",
+    "slug": "huyen-dan-phuong",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Đan Phượng, Thành phố Hà Nội"
+  },
+  "274": {
+    "code": "274",
+    "name": "Huyện Hoài Đức",
+    "slug": "huyen-hoai-duc",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Hoài Đức, Thành phố Hà Nội"
+  },
+  "275": {
+    "code": "275",
+    "name": "Huyện Quốc Oai",
+    "slug": "huyen-quoc-oai",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Quốc Oai, Thành phố Hà Nội"
+  },
+  "276": {
+    "code": "276",
+    "name": "Huyện Thạch Thất",
+    "slug": "huyen-thach-that",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Thạch Thất, Thành phố Hà Nội"
+  },
+  "277": {
+    "code": "277",
+    "name": "Huyện Chương Mỹ",
+    "slug": "huyen-chuong-my",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Chương Mỹ, Thành phố Hà Nội"
+  },
+  "278": {
+    "code": "278",
+    "name": "Huyện Thanh Oai",
+    "slug": "huyen-thanh-oai",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Thanh Oai, Thành phố Hà Nội"
+  },
+  "279": {
+    "code": "279",
+    "name": "Huyện Thường Tín",
+    "slug": "huyen-thuong-tin",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Thường Tín, Thành phố Hà Nội"
+  },
+  "280": {
+    "code": "280",
+    "name": "Huyện Phú Xuyên",
+    "slug": "huyen-phu-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Phú Xuyên, Thành phố Hà Nội"
+  },
+  "281": {
+    "code": "281",
+    "name": "Huyện Ứng Hòa",
+    "slug": "huyen-ung-hoa",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Ứng Hòa, Thành phố Hà Nội"
+  },
+  "282": {
+    "code": "282",
+    "name": "Huyện Mỹ Đức",
+    "slug": "huyen-my-duc",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Mỹ Đức, Thành phố Hà Nội"
+  },
+  "288": {
+    "code": "288",
+    "name": "Thành phố Hải Dương",
+    "slug": "thanh-pho-hai-duong",
+    "unit": "Thành phố",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Thành phố Hải Dương, Tỉnh Hải Dương"
+  },
+  "290": {
+    "code": "290",
+    "name": "Thành phố Chí Linh",
+    "slug": "thanh-pho-chi-linh",
+    "unit": "Thành phố",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Thành phố Chí Linh, Tỉnh Hải Dương"
+  },
+  "291": {
+    "code": "291",
+    "name": "Huyện Nam Sách",
+    "slug": "huyen-nam-sach",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Nam Sách, Tỉnh Hải Dương"
+  },
+  "292": {
+    "code": "292",
+    "name": "Thị xã Kinh Môn",
+    "slug": "thi-xa-kinh-mon",
+    "unit": "Thị xã",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Thị xã Kinh Môn, Tỉnh Hải Dương"
+  },
+  "293": {
+    "code": "293",
+    "name": "Huyện Kim Thành",
+    "slug": "huyen-kim-thanh",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Kim Thành, Tỉnh Hải Dương"
+  },
+  "294": {
+    "code": "294",
+    "name": "Huyện Thanh Hà",
+    "slug": "huyen-thanh-ha",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Thanh Hà, Tỉnh Hải Dương"
+  },
+  "295": {
+    "code": "295",
+    "name": "Huyện Cẩm Giàng",
+    "slug": "huyen-cam-giang",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Cẩm Giàng, Tỉnh Hải Dương"
+  },
+  "296": {
+    "code": "296",
+    "name": "Huyện Bình Giang",
+    "slug": "huyen-binh-giang",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Bình Giang, Tỉnh Hải Dương"
+  },
+  "297": {
+    "code": "297",
+    "name": "Huyện Gia Lộc",
+    "slug": "huyen-gia-loc",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Gia Lộc, Tỉnh Hải Dương"
+  },
+  "298": {
+    "code": "298",
+    "name": "Huyện Tứ Kỳ",
+    "slug": "huyen-tu-ky",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Tứ Kỳ, Tỉnh Hải Dương"
+  },
+  "299": {
+    "code": "299",
+    "name": "Huyện Ninh Giang",
+    "slug": "huyen-ninh-giang",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Ninh Giang, Tỉnh Hải Dương"
+  },
+  "300": {
+    "code": "300",
+    "name": "Huyện Thanh Miện",
+    "slug": "huyen-thanh-mien",
+    "unit": "Huyện",
+    "provinceCode": "30",
+    "provinceName": "Tỉnh Hải Dương",
+    "fullName": "Huyện Thanh Miện, Tỉnh Hải Dương"
+  },
+  "303": {
+    "code": "303",
+    "name": "Quận Hồng Bàng",
+    "slug": "quan-hong-bang",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Hồng Bàng, Thành phố Hải Phòng"
+  },
+  "304": {
+    "code": "304",
+    "name": "Quận Ngô Quyền",
+    "slug": "quan-ngo-quyen",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Ngô Quyền, Thành phố Hải Phòng"
+  },
+  "305": {
+    "code": "305",
+    "name": "Quận Lê Chân",
+    "slug": "quan-le-chan",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Lê Chân, Thành phố Hải Phòng"
+  },
+  "306": {
+    "code": "306",
+    "name": "Quận Hải An",
+    "slug": "quan-hai-an",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Hải An, Thành phố Hải Phòng"
+  },
+  "307": {
+    "code": "307",
+    "name": "Quận Kiến An",
+    "slug": "quan-kien-an",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Kiến An, Thành phố Hải Phòng"
+  },
+  "308": {
+    "code": "308",
+    "name": "Quận Đồ Sơn",
+    "slug": "quan-do-son",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Đồ Sơn, Thành phố Hải Phòng"
+  },
+  "309": {
+    "code": "309",
+    "name": "Quận Dương Kinh",
+    "slug": "quan-duong-kinh",
+    "unit": "Quận",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Quận Dương Kinh, Thành phố Hải Phòng"
+  },
+  "311": {
+    "code": "311",
+    "name": "Huyện Thuỷ Nguyên",
+    "slug": "huyen-thuy-nguyen",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Thuỷ Nguyên, Thành phố Hải Phòng"
+  },
+  "312": {
+    "code": "312",
+    "name": "Huyện An Dương",
+    "slug": "huyen-an-duong",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện An Dương, Thành phố Hải Phòng"
+  },
+  "313": {
+    "code": "313",
+    "name": "Huyện An Lão",
+    "slug": "huyen-an-lao",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện An Lão, Thành phố Hải Phòng"
+  },
+  "314": {
+    "code": "314",
+    "name": "Huyện Kiến Thuỵ",
+    "slug": "huyen-kien-thuy",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Kiến Thuỵ, Thành phố Hải Phòng"
+  },
+  "315": {
+    "code": "315",
+    "name": "Huyện Tiên Lãng",
+    "slug": "huyen-tien-lang",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Tiên Lãng, Thành phố Hải Phòng"
+  },
+  "316": {
+    "code": "316",
+    "name": "Huyện Vĩnh Bảo",
+    "slug": "huyen-vinh-bao",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Vĩnh Bảo, Thành phố Hải Phòng"
+  },
+  "317": {
+    "code": "317",
+    "name": "Huyện Cát Hải",
+    "slug": "huyen-cat-hai",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Cát Hải, Thành phố Hải Phòng"
+  },
+  "318": {
+    "code": "318",
+    "name": "Huyện Bạch Long Vĩ",
+    "slug": "huyen-bach-long-vi",
+    "unit": "Huyện",
+    "provinceCode": "31",
+    "provinceName": "Thành phố Hải Phòng",
+    "fullName": "Huyện Bạch Long Vĩ, Thành phố Hải Phòng"
+  },
+  "323": {
+    "code": "323",
+    "name": "Thành phố Hưng Yên",
+    "slug": "thanh-pho-hung-yen",
+    "unit": "Thành phố",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Thành phố Hưng Yên, Tỉnh Hưng Yên"
+  },
+  "325": {
+    "code": "325",
+    "name": "Huyện Văn Lâm",
+    "slug": "huyen-van-lam",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Văn Lâm, Tỉnh Hưng Yên"
+  },
+  "326": {
+    "code": "326",
+    "name": "Huyện Văn Giang",
+    "slug": "huyen-van-giang",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Văn Giang, Tỉnh Hưng Yên"
+  },
+  "327": {
+    "code": "327",
+    "name": "Huyện Yên Mỹ",
+    "slug": "huyen-yen-my",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Yên Mỹ, Tỉnh Hưng Yên"
+  },
+  "328": {
+    "code": "328",
+    "name": "Thị xã Mỹ Hào",
+    "slug": "thi-xa-my-hao",
+    "unit": "Thị xã",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Thị xã Mỹ Hào, Tỉnh Hưng Yên"
+  },
+  "329": {
+    "code": "329",
+    "name": "Huyện Ân Thi",
+    "slug": "huyen-an-thi",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Ân Thi, Tỉnh Hưng Yên"
+  },
+  "330": {
+    "code": "330",
+    "name": "Huyện Khoái Châu",
+    "slug": "huyen-khoai-chau",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Khoái Châu, Tỉnh Hưng Yên"
+  },
+  "331": {
+    "code": "331",
+    "name": "Huyện Kim Động",
+    "slug": "huyen-kim-dong",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Kim Động, Tỉnh Hưng Yên"
+  },
+  "332": {
+    "code": "332",
+    "name": "Huyện Tiên Lữ",
+    "slug": "huyen-tien-lu",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Tiên Lữ, Tỉnh Hưng Yên"
+  },
+  "333": {
+    "code": "333",
+    "name": "Huyện Phù Cừ",
+    "slug": "huyen-phu-cu",
+    "unit": "Huyện",
+    "provinceCode": "33",
+    "provinceName": "Tỉnh Hưng Yên",
+    "fullName": "Huyện Phù Cừ, Tỉnh Hưng Yên"
+  },
+  "336": {
+    "code": "336",
+    "name": "Thành phố Thái Bình",
+    "slug": "thanh-pho-thai-binh",
+    "unit": "Thành phố",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Thành phố Thái Bình, Tỉnh Thái Bình"
+  },
+  "338": {
+    "code": "338",
+    "name": "Huyện Quỳnh Phụ",
+    "slug": "huyen-quynh-phu",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Quỳnh Phụ, Tỉnh Thái Bình"
+  },
+  "339": {
+    "code": "339",
+    "name": "Huyện Hưng Hà",
+    "slug": "huyen-hung-ha",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Hưng Hà, Tỉnh Thái Bình"
+  },
+  "340": {
+    "code": "340",
+    "name": "Huyện Đông Hưng",
+    "slug": "huyen-dong-hung",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Đông Hưng, Tỉnh Thái Bình"
+  },
+  "341": {
+    "code": "341",
+    "name": "Huyện Thái Thụy",
+    "slug": "huyen-thai-thuy",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Thái Thụy, Tỉnh Thái Bình"
+  },
+  "342": {
+    "code": "342",
+    "name": "Huyện Tiền Hải",
+    "slug": "huyen-tien-hai",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Tiền Hải, Tỉnh Thái Bình"
+  },
+  "343": {
+    "code": "343",
+    "name": "Huyện Kiến Xương",
+    "slug": "huyen-kien-xuong",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Kiến Xương, Tỉnh Thái Bình"
+  },
+  "344": {
+    "code": "344",
+    "name": "Huyện Vũ Thư",
+    "slug": "huyen-vu-thu",
+    "unit": "Huyện",
+    "provinceCode": "34",
+    "provinceName": "Tỉnh Thái Bình",
+    "fullName": "Huyện Vũ Thư, Tỉnh Thái Bình"
+  },
+  "347": {
+    "code": "347",
+    "name": "Thành phố Phủ Lý",
+    "slug": "thanh-pho-phu-ly",
+    "unit": "Thành phố",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Thành phố Phủ Lý, Tỉnh Hà Nam"
+  },
+  "349": {
+    "code": "349",
+    "name": "Thị xã Duy Tiên",
+    "slug": "thi-xa-duy-tien",
+    "unit": "Thị xã",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Thị xã Duy Tiên, Tỉnh Hà Nam"
+  },
+  "350": {
+    "code": "350",
+    "name": "Huyện Kim Bảng",
+    "slug": "huyen-kim-bang",
+    "unit": "Huyện",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Huyện Kim Bảng, Tỉnh Hà Nam"
+  },
+  "351": {
+    "code": "351",
+    "name": "Huyện Thanh Liêm",
+    "slug": "huyen-thanh-liem",
+    "unit": "Huyện",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Huyện Thanh Liêm, Tỉnh Hà Nam"
+  },
+  "352": {
+    "code": "352",
+    "name": "Huyện Bình Lục",
+    "slug": "huyen-binh-luc",
+    "unit": "Huyện",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Huyện Bình Lục, Tỉnh Hà Nam"
+  },
+  "353": {
+    "code": "353",
+    "name": "Huyện Lý Nhân",
+    "slug": "huyen-ly-nhan",
+    "unit": "Huyện",
+    "provinceCode": "35",
+    "provinceName": "Tỉnh Hà Nam",
+    "fullName": "Huyện Lý Nhân, Tỉnh Hà Nam"
+  },
+  "356": {
+    "code": "356",
+    "name": "Thành phố Nam Định",
+    "slug": "thanh-pho-nam-dinh",
+    "unit": "Thành phố",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Thành phố Nam Định, Tỉnh Nam Định"
+  },
+  "358": {
+    "code": "358",
+    "name": "Huyện Mỹ Lộc",
+    "slug": "huyen-my-loc",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Mỹ Lộc, Tỉnh Nam Định"
+  },
+  "359": {
+    "code": "359",
+    "name": "Huyện Vụ Bản",
+    "slug": "huyen-vu-ban",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Vụ Bản, Tỉnh Nam Định"
+  },
+  "360": {
+    "code": "360",
+    "name": "Huyện Ý Yên",
+    "slug": "huyen-y-yen",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Ý Yên, Tỉnh Nam Định"
+  },
+  "361": {
+    "code": "361",
+    "name": "Huyện Nghĩa Hưng",
+    "slug": "huyen-nghia-hung",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Nghĩa Hưng, Tỉnh Nam Định"
+  },
+  "362": {
+    "code": "362",
+    "name": "Huyện Nam Trực",
+    "slug": "huyen-nam-truc",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Nam Trực, Tỉnh Nam Định"
+  },
+  "363": {
+    "code": "363",
+    "name": "Huyện Trực Ninh",
+    "slug": "huyen-truc-ninh",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Trực Ninh, Tỉnh Nam Định"
+  },
+  "364": {
+    "code": "364",
+    "name": "Huyện Xuân Trường",
+    "slug": "huyen-xuan-truong",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Xuân Trường, Tỉnh Nam Định"
+  },
+  "365": {
+    "code": "365",
+    "name": "Huyện Giao Thủy",
+    "slug": "huyen-giao-thuy",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Giao Thủy, Tỉnh Nam Định"
+  },
+  "366": {
+    "code": "366",
+    "name": "Huyện Hải Hậu",
+    "slug": "huyen-hai-hau",
+    "unit": "Huyện",
+    "provinceCode": "36",
+    "provinceName": "Tỉnh Nam Định",
+    "fullName": "Huyện Hải Hậu, Tỉnh Nam Định"
+  },
+  "369": {
+    "code": "369",
+    "name": "Thành phố Ninh Bình",
+    "slug": "thanh-pho-ninh-binh",
+    "unit": "Thành phố",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Thành phố Ninh Bình, Tỉnh Ninh Bình"
+  },
+  "370": {
+    "code": "370",
+    "name": "Thành phố Tam Điệp",
+    "slug": "thanh-pho-tam-diep",
+    "unit": "Thành phố",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Thành phố Tam Điệp, Tỉnh Ninh Bình"
+  },
+  "372": {
+    "code": "372",
+    "name": "Huyện Nho Quan",
+    "slug": "huyen-nho-quan",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Nho Quan, Tỉnh Ninh Bình"
+  },
+  "373": {
+    "code": "373",
+    "name": "Huyện Gia Viễn",
+    "slug": "huyen-gia-vien",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Gia Viễn, Tỉnh Ninh Bình"
+  },
+  "374": {
+    "code": "374",
+    "name": "Huyện Hoa Lư",
+    "slug": "huyen-hoa-lu",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Hoa Lư, Tỉnh Ninh Bình"
+  },
+  "375": {
+    "code": "375",
+    "name": "Huyện Yên Khánh",
+    "slug": "huyen-yen-khanh",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Yên Khánh, Tỉnh Ninh Bình"
+  },
+  "376": {
+    "code": "376",
+    "name": "Huyện Kim Sơn",
+    "slug": "huyen-kim-son",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Kim Sơn, Tỉnh Ninh Bình"
+  },
+  "377": {
+    "code": "377",
+    "name": "Huyện Yên Mô",
+    "slug": "huyen-yen-mo",
+    "unit": "Huyện",
+    "provinceCode": "37",
+    "provinceName": "Tỉnh Ninh Bình",
+    "fullName": "Huyện Yên Mô, Tỉnh Ninh Bình"
+  },
+  "380": {
+    "code": "380",
+    "name": "Thành phố Thanh Hóa",
+    "slug": "thanh-pho-thanh-hoa",
+    "unit": "Thành phố",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Thành phố Thanh Hóa, Tỉnh Thanh Hóa"
+  },
+  "381": {
+    "code": "381",
+    "name": "Thị xã Bỉm Sơn",
+    "slug": "thi-xa-bim-son",
+    "unit": "Thị xã",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Thị xã Bỉm Sơn, Tỉnh Thanh Hóa"
+  },
+  "382": {
+    "code": "382",
+    "name": "Thành phố Sầm Sơn",
+    "slug": "thanh-pho-sam-son",
+    "unit": "Thành phố",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Thành phố Sầm Sơn, Tỉnh Thanh Hóa"
+  },
+  "384": {
+    "code": "384",
+    "name": "Huyện Mường Lát",
+    "slug": "huyen-muong-lat",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Mường Lát, Tỉnh Thanh Hóa"
+  },
+  "385": {
+    "code": "385",
+    "name": "Huyện Quan Hóa",
+    "slug": "huyen-quan-hoa",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Quan Hóa, Tỉnh Thanh Hóa"
+  },
+  "386": {
+    "code": "386",
+    "name": "Huyện Bá Thước",
+    "slug": "huyen-ba-thuoc",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Bá Thước, Tỉnh Thanh Hóa"
+  },
+  "387": {
+    "code": "387",
+    "name": "Huyện Quan Sơn",
+    "slug": "huyen-quan-son",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Quan Sơn, Tỉnh Thanh Hóa"
+  },
+  "388": {
+    "code": "388",
+    "name": "Huyện Lang Chánh",
+    "slug": "huyen-lang-chanh",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Lang Chánh, Tỉnh Thanh Hóa"
+  },
+  "389": {
+    "code": "389",
+    "name": "Huyện Ngọc Lặc",
+    "slug": "huyen-ngoc-lac",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Ngọc Lặc, Tỉnh Thanh Hóa"
+  },
+  "390": {
+    "code": "390",
+    "name": "Huyện Cẩm Thủy",
+    "slug": "huyen-cam-thuy",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Cẩm Thủy, Tỉnh Thanh Hóa"
+  },
+  "391": {
+    "code": "391",
+    "name": "Huyện Thạch Thành",
+    "slug": "huyen-thach-thanh",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Thạch Thành, Tỉnh Thanh Hóa"
+  },
+  "392": {
+    "code": "392",
+    "name": "Huyện Hà Trung",
+    "slug": "huyen-ha-trung",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Hà Trung, Tỉnh Thanh Hóa"
+  },
+  "393": {
+    "code": "393",
+    "name": "Huyện Vĩnh Lộc",
+    "slug": "huyen-vinh-loc",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Vĩnh Lộc, Tỉnh Thanh Hóa"
+  },
+  "394": {
+    "code": "394",
+    "name": "Huyện Yên Định",
+    "slug": "huyen-yen-dinh",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Yên Định, Tỉnh Thanh Hóa"
+  },
+  "395": {
+    "code": "395",
+    "name": "Huyện Thọ Xuân",
+    "slug": "huyen-tho-xuan",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Thọ Xuân, Tỉnh Thanh Hóa"
+  },
+  "396": {
+    "code": "396",
+    "name": "Huyện Thường Xuân",
+    "slug": "huyen-thuong-xuan",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Thường Xuân, Tỉnh Thanh Hóa"
+  },
+  "397": {
+    "code": "397",
+    "name": "Huyện Triệu Sơn",
+    "slug": "huyen-trieu-son",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Triệu Sơn, Tỉnh Thanh Hóa"
+  },
+  "398": {
+    "code": "398",
+    "name": "Huyện Thiệu Hóa",
+    "slug": "huyen-thieu-hoa",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Thiệu Hóa, Tỉnh Thanh Hóa"
+  },
+  "399": {
+    "code": "399",
+    "name": "Huyện Hoằng Hóa",
+    "slug": "huyen-hoang-hoa",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Hoằng Hóa, Tỉnh Thanh Hóa"
+  },
+  "400": {
+    "code": "400",
+    "name": "Huyện Hậu Lộc",
+    "slug": "huyen-hau-loc",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Hậu Lộc, Tỉnh Thanh Hóa"
+  },
+  "401": {
+    "code": "401",
+    "name": "Huyện Nga Sơn",
+    "slug": "huyen-nga-son",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Nga Sơn, Tỉnh Thanh Hóa"
+  },
+  "402": {
+    "code": "402",
+    "name": "Huyện Như Xuân",
+    "slug": "huyen-nhu-xuan",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Như Xuân, Tỉnh Thanh Hóa"
+  },
+  "403": {
+    "code": "403",
+    "name": "Huyện Như Thanh",
+    "slug": "huyen-nhu-thanh",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Như Thanh, Tỉnh Thanh Hóa"
+  },
+  "404": {
+    "code": "404",
+    "name": "Huyện Nông Cống",
+    "slug": "huyen-nong-cong",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Nông Cống, Tỉnh Thanh Hóa"
+  },
+  "405": {
+    "code": "405",
+    "name": "Huyện Đông Sơn",
+    "slug": "huyen-dong-son",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Đông Sơn, Tỉnh Thanh Hóa"
+  },
+  "406": {
+    "code": "406",
+    "name": "Huyện Quảng Xương",
+    "slug": "huyen-quang-xuong",
+    "unit": "Huyện",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Huyện Quảng Xương, Tỉnh Thanh Hóa"
+  },
+  "407": {
+    "code": "407",
+    "name": "Thị xã Nghi Sơn",
+    "slug": "thi-xa-nghi-son",
+    "unit": "Thị xã",
+    "provinceCode": "38",
+    "provinceName": "Tỉnh Thanh Hóa",
+    "fullName": "Thị xã Nghi Sơn, Tỉnh Thanh Hóa"
+  },
+  "412": {
+    "code": "412",
+    "name": "Thành phố Vinh",
+    "slug": "thanh-pho-vinh",
+    "unit": "Thành phố",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Thành phố Vinh, Tỉnh Nghệ An"
+  },
+  "413": {
+    "code": "413",
+    "name": "Thị xã Cửa Lò",
+    "slug": "thi-xa-cua-lo",
+    "unit": "Thị xã",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Thị xã Cửa Lò, Tỉnh Nghệ An"
+  },
+  "414": {
+    "code": "414",
+    "name": "Thị xã Thái Hoà",
+    "slug": "thi-xa-thai-hoa",
+    "unit": "Thị xã",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Thị xã Thái Hoà, Tỉnh Nghệ An"
+  },
+  "415": {
+    "code": "415",
+    "name": "Huyện Quế Phong",
+    "slug": "huyen-que-phong",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Quế Phong, Tỉnh Nghệ An"
+  },
+  "416": {
+    "code": "416",
+    "name": "Huyện Quỳ Châu",
+    "slug": "huyen-quy-chau",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Quỳ Châu, Tỉnh Nghệ An"
+  },
+  "417": {
+    "code": "417",
+    "name": "Huyện Kỳ Sơn",
+    "slug": "huyen-ky-son",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Kỳ Sơn, Tỉnh Nghệ An"
+  },
+  "418": {
+    "code": "418",
+    "name": "Huyện Tương Dương",
+    "slug": "huyen-tuong-duong",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Tương Dương, Tỉnh Nghệ An"
+  },
+  "419": {
+    "code": "419",
+    "name": "Huyện Nghĩa Đàn",
+    "slug": "huyen-nghia-dan",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Nghĩa Đàn, Tỉnh Nghệ An"
+  },
+  "420": {
+    "code": "420",
+    "name": "Huyện Quỳ Hợp",
+    "slug": "huyen-quy-hop",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Quỳ Hợp, Tỉnh Nghệ An"
+  },
+  "421": {
+    "code": "421",
+    "name": "Huyện Quỳnh Lưu",
+    "slug": "huyen-quynh-luu",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Quỳnh Lưu, Tỉnh Nghệ An"
+  },
+  "422": {
+    "code": "422",
+    "name": "Huyện Con Cuông",
+    "slug": "huyen-con-cuong",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Con Cuông, Tỉnh Nghệ An"
+  },
+  "423": {
+    "code": "423",
+    "name": "Huyện Tân Kỳ",
+    "slug": "huyen-tan-ky",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Tân Kỳ, Tỉnh Nghệ An"
+  },
+  "424": {
+    "code": "424",
+    "name": "Huyện Anh Sơn",
+    "slug": "huyen-anh-son",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Anh Sơn, Tỉnh Nghệ An"
+  },
+  "425": {
+    "code": "425",
+    "name": "Huyện Diễn Châu",
+    "slug": "huyen-dien-chau",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Diễn Châu, Tỉnh Nghệ An"
+  },
+  "426": {
+    "code": "426",
+    "name": "Huyện Yên Thành",
+    "slug": "huyen-yen-thanh",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Yên Thành, Tỉnh Nghệ An"
+  },
+  "427": {
+    "code": "427",
+    "name": "Huyện Đô Lương",
+    "slug": "huyen-do-luong",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Đô Lương, Tỉnh Nghệ An"
+  },
+  "428": {
+    "code": "428",
+    "name": "Huyện Thanh Chương",
+    "slug": "huyen-thanh-chuong",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Thanh Chương, Tỉnh Nghệ An"
+  },
+  "429": {
+    "code": "429",
+    "name": "Huyện Nghi Lộc",
+    "slug": "huyen-nghi-loc",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Nghi Lộc, Tỉnh Nghệ An"
+  },
+  "430": {
+    "code": "430",
+    "name": "Huyện Nam Đàn",
+    "slug": "huyen-nam-dan",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Nam Đàn, Tỉnh Nghệ An"
+  },
+  "431": {
+    "code": "431",
+    "name": "Huyện Hưng Nguyên",
+    "slug": "huyen-hung-nguyen",
+    "unit": "Huyện",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Huyện Hưng Nguyên, Tỉnh Nghệ An"
+  },
+  "432": {
+    "code": "432",
+    "name": "Thị xã Hoàng Mai",
+    "slug": "thi-xa-hoang-mai",
+    "unit": "Thị xã",
+    "provinceCode": "40",
+    "provinceName": "Tỉnh Nghệ An",
+    "fullName": "Thị xã Hoàng Mai, Tỉnh Nghệ An"
+  },
+  "436": {
+    "code": "436",
+    "name": "Thành phố Hà Tĩnh",
+    "slug": "thanh-pho-ha-tinh",
+    "unit": "Thành phố",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh"
+  },
+  "437": {
+    "code": "437",
+    "name": "Thị xã Hồng Lĩnh",
+    "slug": "thi-xa-hong-linh",
+    "unit": "Thị xã",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Thị xã Hồng Lĩnh, Tỉnh Hà Tĩnh"
+  },
+  "439": {
+    "code": "439",
+    "name": "Huyện Hương Sơn",
+    "slug": "huyen-huong-son",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Hương Sơn, Tỉnh Hà Tĩnh"
+  },
+  "440": {
+    "code": "440",
+    "name": "Huyện Đức Thọ",
+    "slug": "huyen-duc-tho",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Đức Thọ, Tỉnh Hà Tĩnh"
+  },
+  "441": {
+    "code": "441",
+    "name": "Huyện Vũ Quang",
+    "slug": "huyen-vu-quang",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Vũ Quang, Tỉnh Hà Tĩnh"
+  },
+  "442": {
+    "code": "442",
+    "name": "Huyện Nghi Xuân",
+    "slug": "huyen-nghi-xuan",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Nghi Xuân, Tỉnh Hà Tĩnh"
+  },
+  "443": {
+    "code": "443",
+    "name": "Huyện Can Lộc",
+    "slug": "huyen-can-loc",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Can Lộc, Tỉnh Hà Tĩnh"
+  },
+  "444": {
+    "code": "444",
+    "name": "Huyện Hương Khê",
+    "slug": "huyen-huong-khe",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Hương Khê, Tỉnh Hà Tĩnh"
+  },
+  "445": {
+    "code": "445",
+    "name": "Huyện Thạch Hà",
+    "slug": "huyen-thach-ha",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Thạch Hà, Tỉnh Hà Tĩnh"
+  },
+  "446": {
+    "code": "446",
+    "name": "Huyện Cẩm Xuyên",
+    "slug": "huyen-cam-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh"
+  },
+  "447": {
+    "code": "447",
+    "name": "Huyện Kỳ Anh",
+    "slug": "huyen-ky-anh",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Kỳ Anh, Tỉnh Hà Tĩnh"
+  },
+  "448": {
+    "code": "448",
+    "name": "Huyện Lộc Hà",
+    "slug": "huyen-loc-ha",
+    "unit": "Huyện",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Huyện Lộc Hà, Tỉnh Hà Tĩnh"
+  },
+  "449": {
+    "code": "449",
+    "name": "Thị xã Kỳ Anh",
+    "slug": "thi-xa-ky-anh",
+    "unit": "Thị xã",
+    "provinceCode": "42",
+    "provinceName": "Tỉnh Hà Tĩnh",
+    "fullName": "Thị xã Kỳ Anh, Tỉnh Hà Tĩnh"
+  },
+  "450": {
+    "code": "450",
+    "name": "Thành Phố Đồng Hới",
+    "slug": "thanh-pho-dong-hoi",
+    "unit": "Thành phố",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Thành Phố Đồng Hới, Tỉnh Quảng Bình"
+  },
+  "452": {
+    "code": "452",
+    "name": "Huyện Minh Hóa",
+    "slug": "huyen-minh-hoa",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Minh Hóa, Tỉnh Quảng Bình"
+  },
+  "453": {
+    "code": "453",
+    "name": "Huyện Tuyên Hóa",
+    "slug": "huyen-tuyen-hoa",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Tuyên Hóa, Tỉnh Quảng Bình"
+  },
+  "454": {
+    "code": "454",
+    "name": "Huyện Quảng Trạch",
+    "slug": "huyen-quang-trach",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Quảng Trạch, Tỉnh Quảng Bình"
+  },
+  "455": {
+    "code": "455",
+    "name": "Huyện Bố Trạch",
+    "slug": "huyen-bo-trach",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Bố Trạch, Tỉnh Quảng Bình"
+  },
+  "456": {
+    "code": "456",
+    "name": "Huyện Quảng Ninh",
+    "slug": "huyen-quang-ninh",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Quảng Ninh, Tỉnh Quảng Bình"
+  },
+  "457": {
+    "code": "457",
+    "name": "Huyện Lệ Thủy",
+    "slug": "huyen-le-thuy",
+    "unit": "Huyện",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Huyện Lệ Thủy, Tỉnh Quảng Bình"
+  },
+  "458": {
+    "code": "458",
+    "name": "Thị xã Ba Đồn",
+    "slug": "thi-xa-ba-don",
+    "unit": "Thị xã",
+    "provinceCode": "44",
+    "provinceName": "Tỉnh Quảng Bình",
+    "fullName": "Thị xã Ba Đồn, Tỉnh Quảng Bình"
+  },
+  "461": {
+    "code": "461",
+    "name": "Thành phố Đông Hà",
+    "slug": "thanh-pho-dong-ha",
+    "unit": "Thành phố",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Thành phố Đông Hà, Tỉnh Quảng Trị"
+  },
+  "462": {
+    "code": "462",
+    "name": "Thị xã Quảng Trị",
+    "slug": "thi-xa-quang-tri",
+    "unit": "Thị xã",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Thị xã Quảng Trị, Tỉnh Quảng Trị"
+  },
+  "464": {
+    "code": "464",
+    "name": "Huyện Vĩnh Linh",
+    "slug": "huyen-vinh-linh",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Vĩnh Linh, Tỉnh Quảng Trị"
+  },
+  "465": {
+    "code": "465",
+    "name": "Huyện Hướng Hóa",
+    "slug": "huyen-huong-hoa",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Hướng Hóa, Tỉnh Quảng Trị"
+  },
+  "466": {
+    "code": "466",
+    "name": "Huyện Gio Linh",
+    "slug": "huyen-gio-linh",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Gio Linh, Tỉnh Quảng Trị"
+  },
+  "467": {
+    "code": "467",
+    "name": "Huyện Đa Krông",
+    "slug": "huyen-da-krong",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Đa Krông, Tỉnh Quảng Trị"
+  },
+  "468": {
+    "code": "468",
+    "name": "Huyện Cam Lộ",
+    "slug": "huyen-cam-lo",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Cam Lộ, Tỉnh Quảng Trị"
+  },
+  "469": {
+    "code": "469",
+    "name": "Huyện Triệu Phong",
+    "slug": "huyen-trieu-phong",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Triệu Phong, Tỉnh Quảng Trị"
+  },
+  "470": {
+    "code": "470",
+    "name": "Huyện Hải Lăng",
+    "slug": "huyen-hai-lang",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Hải Lăng, Tỉnh Quảng Trị"
+  },
+  "471": {
+    "code": "471",
+    "name": "Huyện Cồn Cỏ",
+    "slug": "huyen-con-co",
+    "unit": "Huyện",
+    "provinceCode": "45",
+    "provinceName": "Tỉnh Quảng Trị",
+    "fullName": "Huyện Cồn Cỏ, Tỉnh Quảng Trị"
+  },
+  "474": {
+    "code": "474",
+    "name": "Thành phố Huế",
+    "slug": "thanh-pho-hue",
+    "unit": "Thành phố",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Thành phố Huế, Tỉnh Thừa Thiên Huế"
+  },
+  "476": {
+    "code": "476",
+    "name": "Huyện Phong Điền",
+    "slug": "huyen-phong-dien",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện Phong Điền, Tỉnh Thừa Thiên Huế"
+  },
+  "477": {
+    "code": "477",
+    "name": "Huyện Quảng Điền",
+    "slug": "huyen-quang-dien",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện Quảng Điền, Tỉnh Thừa Thiên Huế"
+  },
+  "478": {
+    "code": "478",
+    "name": "Huyện Phú Vang",
+    "slug": "huyen-phu-vang",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện Phú Vang, Tỉnh Thừa Thiên Huế"
+  },
+  "479": {
+    "code": "479",
+    "name": "Thị xã Hương Thủy",
+    "slug": "thi-xa-huong-thuy",
+    "unit": "Thị xã",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế"
+  },
+  "480": {
+    "code": "480",
+    "name": "Thị xã Hương Trà",
+    "slug": "thi-xa-huong-tra",
+    "unit": "Thị xã",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Thị xã Hương Trà, Tỉnh Thừa Thiên Huế"
+  },
+  "481": {
+    "code": "481",
+    "name": "Huyện A Lưới",
+    "slug": "huyen-a-luoi",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện A Lưới, Tỉnh Thừa Thiên Huế"
+  },
+  "482": {
+    "code": "482",
+    "name": "Huyện Phú Lộc",
+    "slug": "huyen-phu-loc",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện Phú Lộc, Tỉnh Thừa Thiên Huế"
+  },
+  "483": {
+    "code": "483",
+    "name": "Huyện Nam Đông",
+    "slug": "huyen-nam-dong",
+    "unit": "Huyện",
+    "provinceCode": "46",
+    "provinceName": "Tỉnh Thừa Thiên Huế",
+    "fullName": "Huyện Nam Đông, Tỉnh Thừa Thiên Huế"
+  },
+  "490": {
+    "code": "490",
+    "name": "Quận Liên Chiểu",
+    "slug": "quan-lien-chieu",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Liên Chiểu, Thành phố Đà Nẵng"
+  },
+  "491": {
+    "code": "491",
+    "name": "Quận Thanh Khê",
+    "slug": "quan-thanh-khe",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Thanh Khê, Thành phố Đà Nẵng"
+  },
+  "492": {
+    "code": "492",
+    "name": "Quận Hải Châu",
+    "slug": "quan-hai-chau",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Hải Châu, Thành phố Đà Nẵng"
+  },
+  "493": {
+    "code": "493",
+    "name": "Quận Sơn Trà",
+    "slug": "quan-son-tra",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Sơn Trà, Thành phố Đà Nẵng"
+  },
+  "494": {
+    "code": "494",
+    "name": "Quận Ngũ Hành Sơn",
+    "slug": "quan-ngu-hanh-son",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Ngũ Hành Sơn, Thành phố Đà Nẵng"
+  },
+  "495": {
+    "code": "495",
+    "name": "Quận Cẩm Lệ",
+    "slug": "quan-cam-le",
+    "unit": "Quận",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Quận Cẩm Lệ, Thành phố Đà Nẵng"
+  },
+  "497": {
+    "code": "497",
+    "name": "Huyện Hòa Vang",
+    "slug": "huyen-hoa-vang",
+    "unit": "Huyện",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Huyện Hòa Vang, Thành phố Đà Nẵng"
+  },
+  "498": {
+    "code": "498",
+    "name": "Huyện Hoàng Sa",
+    "slug": "huyen-hoang-sa",
+    "unit": "Huyện",
+    "provinceCode": "48",
+    "provinceName": "Thành phố Đà Nẵng",
+    "fullName": "Huyện Hoàng Sa, Thành phố Đà Nẵng"
+  },
+  "502": {
+    "code": "502",
+    "name": "Thành phố Tam Kỳ",
+    "slug": "thanh-pho-tam-ky",
+    "unit": "Thành phố",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Thành phố Tam Kỳ, Tỉnh Quảng Nam"
+  },
+  "503": {
+    "code": "503",
+    "name": "Thành phố Hội An",
+    "slug": "thanh-pho-hoi-an",
+    "unit": "Thành phố",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Thành phố Hội An, Tỉnh Quảng Nam"
+  },
+  "504": {
+    "code": "504",
+    "name": "Huyện Tây Giang",
+    "slug": "huyen-tay-giang",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Tây Giang, Tỉnh Quảng Nam"
+  },
+  "505": {
+    "code": "505",
+    "name": "Huyện Đông Giang",
+    "slug": "huyen-dong-giang",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Đông Giang, Tỉnh Quảng Nam"
+  },
+  "506": {
+    "code": "506",
+    "name": "Huyện Đại Lộc",
+    "slug": "huyen-dai-loc",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Đại Lộc, Tỉnh Quảng Nam"
+  },
+  "507": {
+    "code": "507",
+    "name": "Thị xã Điện Bàn",
+    "slug": "thi-xa-dien-ban",
+    "unit": "Thị xã",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Thị xã Điện Bàn, Tỉnh Quảng Nam"
+  },
+  "508": {
+    "code": "508",
+    "name": "Huyện Duy Xuyên",
+    "slug": "huyen-duy-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Duy Xuyên, Tỉnh Quảng Nam"
+  },
+  "509": {
+    "code": "509",
+    "name": "Huyện Quế Sơn",
+    "slug": "huyen-que-son",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Quế Sơn, Tỉnh Quảng Nam"
+  },
+  "510": {
+    "code": "510",
+    "name": "Huyện Nam Giang",
+    "slug": "huyen-nam-giang",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Nam Giang, Tỉnh Quảng Nam"
+  },
+  "511": {
+    "code": "511",
+    "name": "Huyện Phước Sơn",
+    "slug": "huyen-phuoc-son",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Phước Sơn, Tỉnh Quảng Nam"
+  },
+  "512": {
+    "code": "512",
+    "name": "Huyện Hiệp Đức",
+    "slug": "huyen-hiep-duc",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Hiệp Đức, Tỉnh Quảng Nam"
+  },
+  "513": {
+    "code": "513",
+    "name": "Huyện Thăng Bình",
+    "slug": "huyen-thang-binh",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Thăng Bình, Tỉnh Quảng Nam"
+  },
+  "514": {
+    "code": "514",
+    "name": "Huyện Tiên Phước",
+    "slug": "huyen-tien-phuoc",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Tiên Phước, Tỉnh Quảng Nam"
+  },
+  "515": {
+    "code": "515",
+    "name": "Huyện Bắc Trà My",
+    "slug": "huyen-bac-tra-my",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Bắc Trà My, Tỉnh Quảng Nam"
+  },
+  "516": {
+    "code": "516",
+    "name": "Huyện Nam Trà My",
+    "slug": "huyen-nam-tra-my",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Nam Trà My, Tỉnh Quảng Nam"
+  },
+  "517": {
+    "code": "517",
+    "name": "Huyện Núi Thành",
+    "slug": "huyen-nui-thanh",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Núi Thành, Tỉnh Quảng Nam"
+  },
+  "518": {
+    "code": "518",
+    "name": "Huyện Phú Ninh",
+    "slug": "huyen-phu-ninh",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Phú Ninh, Tỉnh Quảng Nam"
+  },
+  "519": {
+    "code": "519",
+    "name": "Huyện Nông Sơn",
+    "slug": "huyen-nong-son",
+    "unit": "Huyện",
+    "provinceCode": "49",
+    "provinceName": "Tỉnh Quảng Nam",
+    "fullName": "Huyện Nông Sơn, Tỉnh Quảng Nam"
+  },
+  "522": {
+    "code": "522",
+    "name": "Thành phố Quảng Ngãi",
+    "slug": "thanh-pho-quang-ngai",
+    "unit": "Thành phố",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi"
+  },
+  "524": {
+    "code": "524",
+    "name": "Huyện Bình Sơn",
+    "slug": "huyen-binh-son",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Bình Sơn, Tỉnh Quảng Ngãi"
+  },
+  "525": {
+    "code": "525",
+    "name": "Huyện Trà Bồng",
+    "slug": "huyen-tra-bong",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Trà Bồng, Tỉnh Quảng Ngãi"
+  },
+  "527": {
+    "code": "527",
+    "name": "Huyện Sơn Tịnh",
+    "slug": "huyen-son-tinh",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Sơn Tịnh, Tỉnh Quảng Ngãi"
+  },
+  "528": {
+    "code": "528",
+    "name": "Huyện Tư Nghĩa",
+    "slug": "huyen-tu-nghia",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Tư Nghĩa, Tỉnh Quảng Ngãi"
+  },
+  "529": {
+    "code": "529",
+    "name": "Huyện Sơn Hà",
+    "slug": "huyen-son-ha",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Sơn Hà, Tỉnh Quảng Ngãi"
+  },
+  "530": {
+    "code": "530",
+    "name": "Huyện Sơn Tây",
+    "slug": "huyen-son-tay",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Sơn Tây, Tỉnh Quảng Ngãi"
+  },
+  "531": {
+    "code": "531",
+    "name": "Huyện Minh Long",
+    "slug": "huyen-minh-long",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Minh Long, Tỉnh Quảng Ngãi"
+  },
+  "532": {
+    "code": "532",
+    "name": "Huyện Nghĩa Hành",
+    "slug": "huyen-nghia-hanh",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Nghĩa Hành, Tỉnh Quảng Ngãi"
+  },
+  "533": {
+    "code": "533",
+    "name": "Huyện Mộ Đức",
+    "slug": "huyen-mo-duc",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Mộ Đức, Tỉnh Quảng Ngãi"
+  },
+  "534": {
+    "code": "534",
+    "name": "Thị xã Đức Phổ",
+    "slug": "thi-xa-duc-pho",
+    "unit": "Thị xã",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Thị xã Đức Phổ, Tỉnh Quảng Ngãi"
+  },
+  "535": {
+    "code": "535",
+    "name": "Huyện Ba Tơ",
+    "slug": "huyen-ba-to",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Ba Tơ, Tỉnh Quảng Ngãi"
+  },
+  "536": {
+    "code": "536",
+    "name": "Huyện Lý Sơn",
+    "slug": "huyen-ly-son",
+    "unit": "Huyện",
+    "provinceCode": "51",
+    "provinceName": "Tỉnh Quảng Ngãi",
+    "fullName": "Huyện Lý Sơn, Tỉnh Quảng Ngãi"
+  },
+  "540": {
+    "code": "540",
+    "name": "Thành phố Quy Nhơn",
+    "slug": "thanh-pho-quy-nhon",
+    "unit": "Thành phố",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Thành phố Quy Nhơn, Tỉnh Bình Định"
+  },
+  "542": {
+    "code": "542",
+    "name": "Huyện An Lão",
+    "slug": "huyen-an-lao",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện An Lão, Tỉnh Bình Định"
+  },
+  "543": {
+    "code": "543",
+    "name": "Thị xã Hoài Nhơn",
+    "slug": "thi-xa-hoai-nhon",
+    "unit": "Thị xã",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Thị xã Hoài Nhơn, Tỉnh Bình Định"
+  },
+  "544": {
+    "code": "544",
+    "name": "Huyện Hoài Ân",
+    "slug": "huyen-hoai-an",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Hoài Ân, Tỉnh Bình Định"
+  },
+  "545": {
+    "code": "545",
+    "name": "Huyện Phù Mỹ",
+    "slug": "huyen-phu-my",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Phù Mỹ, Tỉnh Bình Định"
+  },
+  "546": {
+    "code": "546",
+    "name": "Huyện Vĩnh Thạnh",
+    "slug": "huyen-vinh-thanh",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Vĩnh Thạnh, Tỉnh Bình Định"
+  },
+  "547": {
+    "code": "547",
+    "name": "Huyện Tây Sơn",
+    "slug": "huyen-tay-son",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Tây Sơn, Tỉnh Bình Định"
+  },
+  "548": {
+    "code": "548",
+    "name": "Huyện Phù Cát",
+    "slug": "huyen-phu-cat",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Phù Cát, Tỉnh Bình Định"
+  },
+  "549": {
+    "code": "549",
+    "name": "Thị xã An Nhơn",
+    "slug": "thi-xa-an-nhon",
+    "unit": "Thị xã",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Thị xã An Nhơn, Tỉnh Bình Định"
+  },
+  "550": {
+    "code": "550",
+    "name": "Huyện Tuy Phước",
+    "slug": "huyen-tuy-phuoc",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Tuy Phước, Tỉnh Bình Định"
+  },
+  "551": {
+    "code": "551",
+    "name": "Huyện Vân Canh",
+    "slug": "huyen-van-canh",
+    "unit": "Huyện",
+    "provinceCode": "52",
+    "provinceName": "Tỉnh Bình Định",
+    "fullName": "Huyện Vân Canh, Tỉnh Bình Định"
+  },
+  "555": {
+    "code": "555",
+    "name": "Thành phố Tuy Hoà",
+    "slug": "thanh-pho-tuy-hoa",
+    "unit": "Thành phố",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Thành phố Tuy Hoà, Tỉnh Phú Yên"
+  },
+  "557": {
+    "code": "557",
+    "name": "Thị xã Sông Cầu",
+    "slug": "thi-xa-song-cau",
+    "unit": "Thị xã",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Thị xã Sông Cầu, Tỉnh Phú Yên"
+  },
+  "558": {
+    "code": "558",
+    "name": "Huyện Đồng Xuân",
+    "slug": "huyen-dong-xuan",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Đồng Xuân, Tỉnh Phú Yên"
+  },
+  "559": {
+    "code": "559",
+    "name": "Huyện Tuy An",
+    "slug": "huyen-tuy-an",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Tuy An, Tỉnh Phú Yên"
+  },
+  "560": {
+    "code": "560",
+    "name": "Huyện Sơn Hòa",
+    "slug": "huyen-son-hoa",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Sơn Hòa, Tỉnh Phú Yên"
+  },
+  "561": {
+    "code": "561",
+    "name": "Huyện Sông Hinh",
+    "slug": "huyen-song-hinh",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Sông Hinh, Tỉnh Phú Yên"
+  },
+  "562": {
+    "code": "562",
+    "name": "Huyện Tây Hoà",
+    "slug": "huyen-tay-hoa",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Tây Hoà, Tỉnh Phú Yên"
+  },
+  "563": {
+    "code": "563",
+    "name": "Huyện Phú Hoà",
+    "slug": "huyen-phu-hoa",
+    "unit": "Huyện",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Huyện Phú Hoà, Tỉnh Phú Yên"
+  },
+  "564": {
+    "code": "564",
+    "name": "Thị xã Đông Hòa",
+    "slug": "thi-xa-dong-hoa",
+    "unit": "Thị xã",
+    "provinceCode": "54",
+    "provinceName": "Tỉnh Phú Yên",
+    "fullName": "Thị xã Đông Hòa, Tỉnh Phú Yên"
+  },
+  "568": {
+    "code": "568",
+    "name": "Thành phố Nha Trang",
+    "slug": "thanh-pho-nha-trang",
+    "unit": "Thành phố",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Thành phố Nha Trang, Tỉnh Khánh Hòa"
+  },
+  "569": {
+    "code": "569",
+    "name": "Thành phố Cam Ranh",
+    "slug": "thanh-pho-cam-ranh",
+    "unit": "Thành phố",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Thành phố Cam Ranh, Tỉnh Khánh Hòa"
+  },
+  "570": {
+    "code": "570",
+    "name": "Huyện Cam Lâm",
+    "slug": "huyen-cam-lam",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Cam Lâm, Tỉnh Khánh Hòa"
+  },
+  "571": {
+    "code": "571",
+    "name": "Huyện Vạn Ninh",
+    "slug": "huyen-van-ninh",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Vạn Ninh, Tỉnh Khánh Hòa"
+  },
+  "572": {
+    "code": "572",
+    "name": "Thị xã Ninh Hòa",
+    "slug": "thi-xa-ninh-hoa",
+    "unit": "Thị xã",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Thị xã Ninh Hòa, Tỉnh Khánh Hòa"
+  },
+  "573": {
+    "code": "573",
+    "name": "Huyện Khánh Vĩnh",
+    "slug": "huyen-khanh-vinh",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Khánh Vĩnh, Tỉnh Khánh Hòa"
+  },
+  "574": {
+    "code": "574",
+    "name": "Huyện Diên Khánh",
+    "slug": "huyen-dien-khanh",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Diên Khánh, Tỉnh Khánh Hòa"
+  },
+  "575": {
+    "code": "575",
+    "name": "Huyện Khánh Sơn",
+    "slug": "huyen-khanh-son",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Khánh Sơn, Tỉnh Khánh Hòa"
+  },
+  "576": {
+    "code": "576",
+    "name": "Huyện Trường Sa",
+    "slug": "huyen-truong-sa",
+    "unit": "Huyện",
+    "provinceCode": "56",
+    "provinceName": "Tỉnh Khánh Hòa",
+    "fullName": "Huyện Trường Sa, Tỉnh Khánh Hòa"
+  },
+  "582": {
+    "code": "582",
+    "name": "Thành phố Phan Rang-Tháp Chàm",
+    "slug": "thanh-pho-phan-rang-thap-cham",
+    "unit": "Thành phố",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Thành phố Phan Rang-Tháp Chàm, Tỉnh Ninh Thuận"
+  },
+  "584": {
+    "code": "584",
+    "name": "Huyện Bác Ái",
+    "slug": "huyen-bac-ai",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Bác Ái, Tỉnh Ninh Thuận"
+  },
+  "585": {
+    "code": "585",
+    "name": "Huyện Ninh Sơn",
+    "slug": "huyen-ninh-son",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Ninh Sơn, Tỉnh Ninh Thuận"
+  },
+  "586": {
+    "code": "586",
+    "name": "Huyện Ninh Hải",
+    "slug": "huyen-ninh-hai",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Ninh Hải, Tỉnh Ninh Thuận"
+  },
+  "587": {
+    "code": "587",
+    "name": "Huyện Ninh Phước",
+    "slug": "huyen-ninh-phuoc",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Ninh Phước, Tỉnh Ninh Thuận"
+  },
+  "588": {
+    "code": "588",
+    "name": "Huyện Thuận Bắc",
+    "slug": "huyen-thuan-bac",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Thuận Bắc, Tỉnh Ninh Thuận"
+  },
+  "589": {
+    "code": "589",
+    "name": "Huyện Thuận Nam",
+    "slug": "huyen-thuan-nam",
+    "unit": "Huyện",
+    "provinceCode": "58",
+    "provinceName": "Tỉnh Ninh Thuận",
+    "fullName": "Huyện Thuận Nam, Tỉnh Ninh Thuận"
+  },
+  "593": {
+    "code": "593",
+    "name": "Thành phố Phan Thiết",
+    "slug": "thanh-pho-phan-thiet",
+    "unit": "Thành phố",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Thành phố Phan Thiết, Tỉnh Bình Thuận"
+  },
+  "594": {
+    "code": "594",
+    "name": "Thị xã La Gi",
+    "slug": "thi-xa-la-gi",
+    "unit": "Thị xã",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Thị xã La Gi, Tỉnh Bình Thuận"
+  },
+  "595": {
+    "code": "595",
+    "name": "Huyện Tuy Phong",
+    "slug": "huyen-tuy-phong",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Tuy Phong, Tỉnh Bình Thuận"
+  },
+  "596": {
+    "code": "596",
+    "name": "Huyện Bắc Bình",
+    "slug": "huyen-bac-binh",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Bắc Bình, Tỉnh Bình Thuận"
+  },
+  "597": {
+    "code": "597",
+    "name": "Huyện Hàm Thuận Bắc",
+    "slug": "huyen-ham-thuan-bac",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận"
+  },
+  "598": {
+    "code": "598",
+    "name": "Huyện Hàm Thuận Nam",
+    "slug": "huyen-ham-thuan-nam",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Hàm Thuận Nam, Tỉnh Bình Thuận"
+  },
+  "599": {
+    "code": "599",
+    "name": "Huyện Tánh Linh",
+    "slug": "huyen-tanh-linh",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Tánh Linh, Tỉnh Bình Thuận"
+  },
+  "600": {
+    "code": "600",
+    "name": "Huyện Đức Linh",
+    "slug": "huyen-duc-linh",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Đức Linh, Tỉnh Bình Thuận"
+  },
+  "601": {
+    "code": "601",
+    "name": "Huyện Hàm Tân",
+    "slug": "huyen-ham-tan",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Hàm Tân, Tỉnh Bình Thuận"
+  },
+  "602": {
+    "code": "602",
+    "name": "Huyện Phú Quí",
+    "slug": "huyen-phu-qui",
+    "unit": "Huyện",
+    "provinceCode": "60",
+    "provinceName": "Tỉnh Bình Thuận",
+    "fullName": "Huyện Phú Quí, Tỉnh Bình Thuận"
+  },
+  "608": {
+    "code": "608",
+    "name": "Thành phố Kon Tum",
+    "slug": "thanh-pho-kon-tum",
+    "unit": "Thành phố",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Thành phố Kon Tum, Tỉnh Kon Tum"
+  },
+  "610": {
+    "code": "610",
+    "name": "Huyện Đắk Glei",
+    "slug": "huyen-dak-glei",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Đắk Glei, Tỉnh Kon Tum"
+  },
+  "611": {
+    "code": "611",
+    "name": "Huyện Ngọc Hồi",
+    "slug": "huyen-ngoc-hoi",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Ngọc Hồi, Tỉnh Kon Tum"
+  },
+  "612": {
+    "code": "612",
+    "name": "Huyện Đắk Tô",
+    "slug": "huyen-dak-to",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Đắk Tô, Tỉnh Kon Tum"
+  },
+  "613": {
+    "code": "613",
+    "name": "Huyện Kon Plông",
+    "slug": "huyen-kon-plong",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Kon Plông, Tỉnh Kon Tum"
+  },
+  "614": {
+    "code": "614",
+    "name": "Huyện Kon Rẫy",
+    "slug": "huyen-kon-ray",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Kon Rẫy, Tỉnh Kon Tum"
+  },
+  "615": {
+    "code": "615",
+    "name": "Huyện Đắk Hà",
+    "slug": "huyen-dak-ha",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Đắk Hà, Tỉnh Kon Tum"
+  },
+  "616": {
+    "code": "616",
+    "name": "Huyện Sa Thầy",
+    "slug": "huyen-sa-thay",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Sa Thầy, Tỉnh Kon Tum"
+  },
+  "617": {
+    "code": "617",
+    "name": "Huyện Tu Mơ Rông",
+    "slug": "huyen-tu-mo-rong",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Tu Mơ Rông, Tỉnh Kon Tum"
+  },
+  "618": {
+    "code": "618",
+    "name": "Huyện Ia H' Drai",
+    "slug": "huyen-ia-h-drai",
+    "unit": "Huyện",
+    "provinceCode": "62",
+    "provinceName": "Tỉnh Kon Tum",
+    "fullName": "Huyện Ia H' Drai, Tỉnh Kon Tum"
+  },
+  "622": {
+    "code": "622",
+    "name": "Thành phố Pleiku",
+    "slug": "thanh-pho-pleiku",
+    "unit": "Thành phố",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Thành phố Pleiku, Tỉnh Gia Lai"
+  },
+  "623": {
+    "code": "623",
+    "name": "Thị xã An Khê",
+    "slug": "thi-xa-an-khe",
+    "unit": "Thị xã",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Thị xã An Khê, Tỉnh Gia Lai"
+  },
+  "624": {
+    "code": "624",
+    "name": "Thị xã Ayun Pa",
+    "slug": "thi-xa-ayun-pa",
+    "unit": "Thị xã",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Thị xã Ayun Pa, Tỉnh Gia Lai"
+  },
+  "625": {
+    "code": "625",
+    "name": "Huyện KBang",
+    "slug": "huyen-kbang",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện KBang, Tỉnh Gia Lai"
+  },
+  "626": {
+    "code": "626",
+    "name": "Huyện Đăk Đoa",
+    "slug": "huyen-dak-doa",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Đăk Đoa, Tỉnh Gia Lai"
+  },
+  "627": {
+    "code": "627",
+    "name": "Huyện Chư Păh",
+    "slug": "huyen-chu-pah",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Chư Păh, Tỉnh Gia Lai"
+  },
+  "628": {
+    "code": "628",
+    "name": "Huyện Ia Grai",
+    "slug": "huyen-ia-grai",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Ia Grai, Tỉnh Gia Lai"
+  },
+  "629": {
+    "code": "629",
+    "name": "Huyện Mang Yang",
+    "slug": "huyen-mang-yang",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Mang Yang, Tỉnh Gia Lai"
+  },
+  "630": {
+    "code": "630",
+    "name": "Huyện Kông Chro",
+    "slug": "huyen-kong-chro",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Kông Chro, Tỉnh Gia Lai"
+  },
+  "631": {
+    "code": "631",
+    "name": "Huyện Đức Cơ",
+    "slug": "huyen-duc-co",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Đức Cơ, Tỉnh Gia Lai"
+  },
+  "632": {
+    "code": "632",
+    "name": "Huyện Chư Prông",
+    "slug": "huyen-chu-prong",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Chư Prông, Tỉnh Gia Lai"
+  },
+  "633": {
+    "code": "633",
+    "name": "Huyện Chư Sê",
+    "slug": "huyen-chu-se",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Chư Sê, Tỉnh Gia Lai"
+  },
+  "634": {
+    "code": "634",
+    "name": "Huyện Đăk Pơ",
+    "slug": "huyen-dak-po",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Đăk Pơ, Tỉnh Gia Lai"
+  },
+  "635": {
+    "code": "635",
+    "name": "Huyện Ia Pa",
+    "slug": "huyen-ia-pa",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Ia Pa, Tỉnh Gia Lai"
+  },
+  "637": {
+    "code": "637",
+    "name": "Huyện Krông Pa",
+    "slug": "huyen-krong-pa",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Krông Pa, Tỉnh Gia Lai"
+  },
+  "638": {
+    "code": "638",
+    "name": "Huyện Phú Thiện",
+    "slug": "huyen-phu-thien",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Phú Thiện, Tỉnh Gia Lai"
+  },
+  "639": {
+    "code": "639",
+    "name": "Huyện Chư Pưh",
+    "slug": "huyen-chu-puh",
+    "unit": "Huyện",
+    "provinceCode": "64",
+    "provinceName": "Tỉnh Gia Lai",
+    "fullName": "Huyện Chư Pưh, Tỉnh Gia Lai"
+  },
+  "643": {
+    "code": "643",
+    "name": "Thành phố Buôn Ma Thuột",
+    "slug": "thanh-pho-buon-ma-thuot",
+    "unit": "Thành phố",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk"
+  },
+  "644": {
+    "code": "644",
+    "name": "Thị Xã Buôn Hồ",
+    "slug": "thi-xa-buon-ho",
+    "unit": "Thị xã",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Thị Xã Buôn Hồ, Tỉnh Đắk Lắk"
+  },
+  "645": {
+    "code": "645",
+    "name": "Huyện Ea H'leo",
+    "slug": "huyen-ea-hleo",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Ea H'leo, Tỉnh Đắk Lắk"
+  },
+  "646": {
+    "code": "646",
+    "name": "Huyện Ea Súp",
+    "slug": "huyen-ea-sup",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Ea Súp, Tỉnh Đắk Lắk"
+  },
+  "647": {
+    "code": "647",
+    "name": "Huyện Buôn Đôn",
+    "slug": "huyen-buon-don",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Buôn Đôn, Tỉnh Đắk Lắk"
+  },
+  "648": {
+    "code": "648",
+    "name": "Huyện Cư M'gar",
+    "slug": "huyen-cu-mgar",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Cư M'gar, Tỉnh Đắk Lắk"
+  },
+  "649": {
+    "code": "649",
+    "name": "Huyện Krông Búk",
+    "slug": "huyen-krong-buk",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Krông Búk, Tỉnh Đắk Lắk"
+  },
+  "650": {
+    "code": "650",
+    "name": "Huyện Krông Năng",
+    "slug": "huyen-krong-nang",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Krông Năng, Tỉnh Đắk Lắk"
+  },
+  "651": {
+    "code": "651",
+    "name": "Huyện Ea Kar",
+    "slug": "huyen-ea-kar",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Ea Kar, Tỉnh Đắk Lắk"
+  },
+  "652": {
+    "code": "652",
+    "name": "Huyện M'Đrắk",
+    "slug": "huyen-mdrak",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện M'Đrắk, Tỉnh Đắk Lắk"
+  },
+  "653": {
+    "code": "653",
+    "name": "Huyện Krông Bông",
+    "slug": "huyen-krong-bong",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Krông Bông, Tỉnh Đắk Lắk"
+  },
+  "654": {
+    "code": "654",
+    "name": "Huyện Krông Pắc",
+    "slug": "huyen-krong-pac",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Krông Pắc, Tỉnh Đắk Lắk"
+  },
+  "655": {
+    "code": "655",
+    "name": "Huyện Krông A Na",
+    "slug": "huyen-krong-a-na",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Krông A Na, Tỉnh Đắk Lắk"
+  },
+  "656": {
+    "code": "656",
+    "name": "Huyện Lắk",
+    "slug": "huyen-lak",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Lắk, Tỉnh Đắk Lắk"
+  },
+  "657": {
+    "code": "657",
+    "name": "Huyện Cư Kuin",
+    "slug": "huyen-cu-kuin",
+    "unit": "Huyện",
+    "provinceCode": "66",
+    "provinceName": "Tỉnh Đắk Lắk",
+    "fullName": "Huyện Cư Kuin, Tỉnh Đắk Lắk"
+  },
+  "660": {
+    "code": "660",
+    "name": "Thành phố Gia Nghĩa",
+    "slug": "thanh-pho-gia-nghia",
+    "unit": "Thành phố",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Thành phố Gia Nghĩa, Tỉnh Đắk Nông"
+  },
+  "661": {
+    "code": "661",
+    "name": "Huyện Đăk Glong",
+    "slug": "huyen-dak-glong",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Đăk Glong, Tỉnh Đắk Nông"
+  },
+  "662": {
+    "code": "662",
+    "name": "Huyện Cư Jút",
+    "slug": "huyen-cu-jut",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Cư Jút, Tỉnh Đắk Nông"
+  },
+  "663": {
+    "code": "663",
+    "name": "Huyện Đắk Mil",
+    "slug": "huyen-dak-mil",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Đắk Mil, Tỉnh Đắk Nông"
+  },
+  "664": {
+    "code": "664",
+    "name": "Huyện Krông Nô",
+    "slug": "huyen-krong-no",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Krông Nô, Tỉnh Đắk Nông"
+  },
+  "665": {
+    "code": "665",
+    "name": "Huyện Đắk Song",
+    "slug": "huyen-dak-song",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Đắk Song, Tỉnh Đắk Nông"
+  },
+  "666": {
+    "code": "666",
+    "name": "Huyện Đắk R'Lấp",
+    "slug": "huyen-dak-rlap",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Đắk R'Lấp, Tỉnh Đắk Nông"
+  },
+  "667": {
+    "code": "667",
+    "name": "Huyện Tuy Đức",
+    "slug": "huyen-tuy-duc",
+    "unit": "Huyện",
+    "provinceCode": "67",
+    "provinceName": "Tỉnh Đắk Nông",
+    "fullName": "Huyện Tuy Đức, Tỉnh Đắk Nông"
+  },
+  "672": {
+    "code": "672",
+    "name": "Thành phố Đà Lạt",
+    "slug": "thanh-pho-da-lat",
+    "unit": "Thành phố",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Thành phố Đà Lạt, Tỉnh Lâm Đồng"
+  },
+  "673": {
+    "code": "673",
+    "name": "Thành phố Bảo Lộc",
+    "slug": "thanh-pho-bao-loc",
+    "unit": "Thành phố",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Thành phố Bảo Lộc, Tỉnh Lâm Đồng"
+  },
+  "674": {
+    "code": "674",
+    "name": "Huyện Đam Rông",
+    "slug": "huyen-dam-rong",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Đam Rông, Tỉnh Lâm Đồng"
+  },
+  "675": {
+    "code": "675",
+    "name": "Huyện Lạc Dương",
+    "slug": "huyen-lac-duong",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Lạc Dương, Tỉnh Lâm Đồng"
+  },
+  "676": {
+    "code": "676",
+    "name": "Huyện Lâm Hà",
+    "slug": "huyen-lam-ha",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Lâm Hà, Tỉnh Lâm Đồng"
+  },
+  "677": {
+    "code": "677",
+    "name": "Huyện Đơn Dương",
+    "slug": "huyen-don-duong",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Đơn Dương, Tỉnh Lâm Đồng"
+  },
+  "678": {
+    "code": "678",
+    "name": "Huyện Đức Trọng",
+    "slug": "huyen-duc-trong",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Đức Trọng, Tỉnh Lâm Đồng"
+  },
+  "679": {
+    "code": "679",
+    "name": "Huyện Di Linh",
+    "slug": "huyen-di-linh",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Di Linh, Tỉnh Lâm Đồng"
+  },
+  "680": {
+    "code": "680",
+    "name": "Huyện Bảo Lâm",
+    "slug": "huyen-bao-lam",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Bảo Lâm, Tỉnh Lâm Đồng"
+  },
+  "681": {
+    "code": "681",
+    "name": "Huyện Đạ Huoai",
+    "slug": "huyen-da-huoai",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Đạ Huoai, Tỉnh Lâm Đồng"
+  },
+  "682": {
+    "code": "682",
+    "name": "Huyện Đạ Tẻh",
+    "slug": "huyen-da-teh",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Đạ Tẻh, Tỉnh Lâm Đồng"
+  },
+  "683": {
+    "code": "683",
+    "name": "Huyện Cát Tiên",
+    "slug": "huyen-cat-tien",
+    "unit": "Huyện",
+    "provinceCode": "68",
+    "provinceName": "Tỉnh Lâm Đồng",
+    "fullName": "Huyện Cát Tiên, Tỉnh Lâm Đồng"
+  },
+  "688": {
+    "code": "688",
+    "name": "Thị xã Phước Long",
+    "slug": "thi-xa-phuoc-long",
+    "unit": "Thị xã",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Thị xã Phước Long, Tỉnh Bình Phước"
+  },
+  "689": {
+    "code": "689",
+    "name": "Thành phố Đồng Xoài",
+    "slug": "thanh-pho-dong-xoai",
+    "unit": "Thành phố",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Thành phố Đồng Xoài, Tỉnh Bình Phước"
+  },
+  "690": {
+    "code": "690",
+    "name": "Thị xã Bình Long",
+    "slug": "thi-xa-binh-long",
+    "unit": "Thị xã",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Thị xã Bình Long, Tỉnh Bình Phước"
+  },
+  "691": {
+    "code": "691",
+    "name": "Huyện Bù Gia Mập",
+    "slug": "huyen-bu-gia-map",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Bù Gia Mập, Tỉnh Bình Phước"
+  },
+  "692": {
+    "code": "692",
+    "name": "Huyện Lộc Ninh",
+    "slug": "huyen-loc-ninh",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Lộc Ninh, Tỉnh Bình Phước"
+  },
+  "693": {
+    "code": "693",
+    "name": "Huyện Bù Đốp",
+    "slug": "huyen-bu-dop",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Bù Đốp, Tỉnh Bình Phước"
+  },
+  "694": {
+    "code": "694",
+    "name": "Huyện Hớn Quản",
+    "slug": "huyen-hon-quan",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Hớn Quản, Tỉnh Bình Phước"
+  },
+  "695": {
+    "code": "695",
+    "name": "Huyện Đồng Phú",
+    "slug": "huyen-dong-phu",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Đồng Phú, Tỉnh Bình Phước"
+  },
+  "696": {
+    "code": "696",
+    "name": "Huyện Bù Đăng",
+    "slug": "huyen-bu-dang",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Bù Đăng, Tỉnh Bình Phước"
+  },
+  "697": {
+    "code": "697",
+    "name": "Huyện Chơn Thành",
+    "slug": "huyen-chon-thanh",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Chơn Thành, Tỉnh Bình Phước"
+  },
+  "698": {
+    "code": "698",
+    "name": "Huyện Phú Riềng",
+    "slug": "huyen-phu-rieng",
+    "unit": "Huyện",
+    "provinceCode": "70",
+    "provinceName": "Tỉnh Bình Phước",
+    "fullName": "Huyện Phú Riềng, Tỉnh Bình Phước"
+  },
+  "703": {
+    "code": "703",
+    "name": "Thành phố Tây Ninh",
+    "slug": "thanh-pho-tay-ninh",
+    "unit": "Thành phố",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Thành phố Tây Ninh, Tỉnh Tây Ninh"
+  },
+  "705": {
+    "code": "705",
+    "name": "Huyện Tân Biên",
+    "slug": "huyen-tan-bien",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Tân Biên, Tỉnh Tây Ninh"
+  },
+  "706": {
+    "code": "706",
+    "name": "Huyện Tân Châu",
+    "slug": "huyen-tan-chau",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Tân Châu, Tỉnh Tây Ninh"
+  },
+  "707": {
+    "code": "707",
+    "name": "Huyện Dương Minh Châu",
+    "slug": "huyen-duong-minh-chau",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Dương Minh Châu, Tỉnh Tây Ninh"
+  },
+  "708": {
+    "code": "708",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Châu Thành, Tỉnh Tây Ninh"
+  },
+  "709": {
+    "code": "709",
+    "name": "Thị xã Hòa Thành",
+    "slug": "thi-xa-hoa-thanh",
+    "unit": "Thị xã",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Thị xã Hòa Thành, Tỉnh Tây Ninh"
+  },
+  "710": {
+    "code": "710",
+    "name": "Huyện Gò Dầu",
+    "slug": "huyen-go-dau",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Gò Dầu, Tỉnh Tây Ninh"
+  },
+  "711": {
+    "code": "711",
+    "name": "Huyện Bến Cầu",
+    "slug": "huyen-ben-cau",
+    "unit": "Huyện",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Huyện Bến Cầu, Tỉnh Tây Ninh"
+  },
+  "712": {
+    "code": "712",
+    "name": "Thị xã Trảng Bàng",
+    "slug": "thi-xa-trang-bang",
+    "unit": "Thị xã",
+    "provinceCode": "72",
+    "provinceName": "Tỉnh Tây Ninh",
+    "fullName": "Thị xã Trảng Bàng, Tỉnh Tây Ninh"
+  },
+  "718": {
+    "code": "718",
+    "name": "Thành phố Thủ Dầu Một",
+    "slug": "thanh-pho-thu-dau-mot",
+    "unit": "Thành phố",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Thành phố Thủ Dầu Một, Tỉnh Bình Dương"
+  },
+  "719": {
+    "code": "719",
+    "name": "Huyện Bàu Bàng",
+    "slug": "huyen-bau-bang",
+    "unit": "Huyện",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Huyện Bàu Bàng, Tỉnh Bình Dương"
+  },
+  "720": {
+    "code": "720",
+    "name": "Huyện Dầu Tiếng",
+    "slug": "huyen-dau-tieng",
+    "unit": "Huyện",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Huyện Dầu Tiếng, Tỉnh Bình Dương"
+  },
+  "721": {
+    "code": "721",
+    "name": "Thị xã Bến Cát",
+    "slug": "thi-xa-ben-cat",
+    "unit": "Thị xã",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Thị xã Bến Cát, Tỉnh Bình Dương"
+  },
+  "722": {
+    "code": "722",
+    "name": "Huyện Phú Giáo",
+    "slug": "huyen-phu-giao",
+    "unit": "Huyện",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Huyện Phú Giáo, Tỉnh Bình Dương"
+  },
+  "723": {
+    "code": "723",
+    "name": "Thị xã Tân Uyên",
+    "slug": "thi-xa-tan-uyen",
+    "unit": "Thị xã",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Thị xã Tân Uyên, Tỉnh Bình Dương"
+  },
+  "724": {
+    "code": "724",
+    "name": "Thành phố Dĩ An",
+    "slug": "thanh-pho-di-an",
+    "unit": "Thành phố",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Thành phố Dĩ An, Tỉnh Bình Dương"
+  },
+  "725": {
+    "code": "725",
+    "name": "Thành phố Thuận An",
+    "slug": "thanh-pho-thuan-an",
+    "unit": "Thành phố",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Thành phố Thuận An, Tỉnh Bình Dương"
+  },
+  "726": {
+    "code": "726",
+    "name": "Huyện Bắc Tân Uyên",
+    "slug": "huyen-bac-tan-uyen",
+    "unit": "Huyện",
+    "provinceCode": "74",
+    "provinceName": "Tỉnh Bình Dương",
+    "fullName": "Huyện Bắc Tân Uyên, Tỉnh Bình Dương"
+  },
+  "731": {
+    "code": "731",
+    "name": "Thành phố Biên Hòa",
+    "slug": "thanh-pho-bien-hoa",
+    "unit": "Thành phố",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Thành phố Biên Hòa, Tỉnh Đồng Nai"
+  },
+  "732": {
+    "code": "732",
+    "name": "Thành phố Long Khánh",
+    "slug": "thanh-pho-long-khanh",
+    "unit": "Thành phố",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Thành phố Long Khánh, Tỉnh Đồng Nai"
+  },
+  "734": {
+    "code": "734",
+    "name": "Huyện Tân Phú",
+    "slug": "huyen-tan-phu",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Tân Phú, Tỉnh Đồng Nai"
+  },
+  "735": {
+    "code": "735",
+    "name": "Huyện Vĩnh Cửu",
+    "slug": "huyen-vinh-cuu",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Vĩnh Cửu, Tỉnh Đồng Nai"
+  },
+  "736": {
+    "code": "736",
+    "name": "Huyện Định Quán",
+    "slug": "huyen-dinh-quan",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Định Quán, Tỉnh Đồng Nai"
+  },
+  "737": {
+    "code": "737",
+    "name": "Huyện Trảng Bom",
+    "slug": "huyen-trang-bom",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Trảng Bom, Tỉnh Đồng Nai"
+  },
+  "738": {
+    "code": "738",
+    "name": "Huyện Thống Nhất",
+    "slug": "huyen-thong-nhat",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Thống Nhất, Tỉnh Đồng Nai"
+  },
+  "739": {
+    "code": "739",
+    "name": "Huyện Cẩm Mỹ",
+    "slug": "huyen-cam-my",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Cẩm Mỹ, Tỉnh Đồng Nai"
+  },
+  "740": {
+    "code": "740",
+    "name": "Huyện Long Thành",
+    "slug": "huyen-long-thanh",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Long Thành, Tỉnh Đồng Nai"
+  },
+  "741": {
+    "code": "741",
+    "name": "Huyện Xuân Lộc",
+    "slug": "huyen-xuan-loc",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Xuân Lộc, Tỉnh Đồng Nai"
+  },
+  "742": {
+    "code": "742",
+    "name": "Huyện Nhơn Trạch",
+    "slug": "huyen-nhon-trach",
+    "unit": "Huyện",
+    "provinceCode": "75",
+    "provinceName": "Tỉnh Đồng Nai",
+    "fullName": "Huyện Nhơn Trạch, Tỉnh Đồng Nai"
+  },
+  "747": {
+    "code": "747",
+    "name": "Thành phố Vũng Tàu",
+    "slug": "thanh-pho-vung-tau",
+    "unit": "Thành phố",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "748": {
+    "code": "748",
+    "name": "Thành phố Bà Rịa",
+    "slug": "thanh-pho-ba-ria",
+    "unit": "Thành phố",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Thành phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "750": {
+    "code": "750",
+    "name": "Huyện Châu Đức",
+    "slug": "huyen-chau-duc",
+    "unit": "Huyện",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "751": {
+    "code": "751",
+    "name": "Huyện Xuyên Mộc",
+    "slug": "huyen-xuyen-moc",
+    "unit": "Huyện",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "752": {
+    "code": "752",
+    "name": "Huyện Long Điền",
+    "slug": "huyen-long-dien",
+    "unit": "Huyện",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "753": {
+    "code": "753",
+    "name": "Huyện Đất Đỏ",
+    "slug": "huyen-dat-do",
+    "unit": "Huyện",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "754": {
+    "code": "754",
+    "name": "Thị xã Phú Mỹ",
+    "slug": "thi-xa-phu-my",
+    "unit": "Thị xã",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Thị xã Phú Mỹ, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "755": {
+    "code": "755",
+    "name": "Huyện Côn Đảo",
+    "slug": "huyen-con-dao",
+    "unit": "Huyện",
+    "provinceCode": "77",
+    "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "fullName": "Huyện Côn Đảo, Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  "760": {
+    "code": "760",
+    "name": "Quận 1",
+    "slug": "quan-1",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 1, Thành phố Hồ Chí Minh"
+  },
+  "761": {
+    "code": "761",
+    "name": "Quận 12",
+    "slug": "quan-12",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 12, Thành phố Hồ Chí Minh"
+  },
+  "764": {
+    "code": "764",
+    "name": "Quận Gò Vấp",
+    "slug": "quan-go-vap",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Gò Vấp, Thành phố Hồ Chí Minh"
+  },
+  "765": {
+    "code": "765",
+    "name": "Quận Bình Thạnh",
+    "slug": "quan-binh-thanh",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+  },
+  "766": {
+    "code": "766",
+    "name": "Quận Tân Bình",
+    "slug": "quan-tan-binh",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Tân Bình, Thành phố Hồ Chí Minh"
+  },
+  "767": {
+    "code": "767",
+    "name": "Quận Tân Phú",
+    "slug": "quan-tan-phu",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Tân Phú, Thành phố Hồ Chí Minh"
+  },
+  "768": {
+    "code": "768",
+    "name": "Quận Phú Nhuận",
+    "slug": "quan-phu-nhuan",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+  },
+  "769": {
+    "code": "769",
+    "name": "Thành phố Thủ Đức",
+    "slug": "thanh-pho-thu-duc",
+    "unit": "Thành phố",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+  },
+  "770": {
+    "code": "770",
+    "name": "Quận 3",
+    "slug": "quan-3",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 3, Thành phố Hồ Chí Minh"
+  },
+  "771": {
+    "code": "771",
+    "name": "Quận 10",
+    "slug": "quan-10",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 10, Thành phố Hồ Chí Minh"
+  },
+  "772": {
+    "code": "772",
+    "name": "Quận 11",
+    "slug": "quan-11",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 11, Thành phố Hồ Chí Minh"
+  },
+  "773": {
+    "code": "773",
+    "name": "Quận 4",
+    "slug": "quan-4",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 4, Thành phố Hồ Chí Minh"
+  },
+  "774": {
+    "code": "774",
+    "name": "Quận 5",
+    "slug": "quan-5",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 5, Thành phố Hồ Chí Minh"
+  },
+  "775": {
+    "code": "775",
+    "name": "Quận 6",
+    "slug": "quan-6",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 6, Thành phố Hồ Chí Minh"
+  },
+  "776": {
+    "code": "776",
+    "name": "Quận 8",
+    "slug": "quan-8",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 8, Thành phố Hồ Chí Minh"
+  },
+  "777": {
+    "code": "777",
+    "name": "Quận Bình Tân",
+    "slug": "quan-binh-tan",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận Bình Tân, Thành phố Hồ Chí Minh"
+  },
+  "778": {
+    "code": "778",
+    "name": "Quận 7",
+    "slug": "quan-7",
+    "unit": "Quận",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Quận 7, Thành phố Hồ Chí Minh"
+  },
+  "783": {
+    "code": "783",
+    "name": "Huyện Củ Chi",
+    "slug": "huyen-cu-chi",
+    "unit": "Huyện",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Huyện Củ Chi, Thành phố Hồ Chí Minh"
+  },
+  "784": {
+    "code": "784",
+    "name": "Huyện Hóc Môn",
+    "slug": "huyen-hoc-mon",
+    "unit": "Huyện",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+  },
+  "785": {
+    "code": "785",
+    "name": "Huyện Bình Chánh",
+    "slug": "huyen-binh-chanh",
+    "unit": "Huyện",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Huyện Bình Chánh, Thành phố Hồ Chí Minh"
+  },
+  "786": {
+    "code": "786",
+    "name": "Huyện Nhà Bè",
+    "slug": "huyen-nha-be",
+    "unit": "Huyện",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Huyện Nhà Bè, Thành phố Hồ Chí Minh"
+  },
+  "787": {
+    "code": "787",
+    "name": "Huyện Cần Giờ",
+    "slug": "huyen-can-gio",
+    "unit": "Huyện",
+    "provinceCode": "79",
+    "provinceName": "Thành phố Hồ Chí Minh",
+    "fullName": "Huyện Cần Giờ, Thành phố Hồ Chí Minh"
+  },
+  "794": {
+    "code": "794",
+    "name": "Thành phố Tân An",
+    "slug": "thanh-pho-tan-an",
+    "unit": "Thành phố",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Thành phố Tân An, Tỉnh Long An"
+  },
+  "795": {
+    "code": "795",
+    "name": "Thị xã Kiến Tường",
+    "slug": "thi-xa-kien-tuong",
+    "unit": "Thị xã",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Thị xã Kiến Tường, Tỉnh Long An"
+  },
+  "796": {
+    "code": "796",
+    "name": "Huyện Tân Hưng",
+    "slug": "huyen-tan-hung",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Tân Hưng, Tỉnh Long An"
+  },
+  "797": {
+    "code": "797",
+    "name": "Huyện Vĩnh Hưng",
+    "slug": "huyen-vinh-hung",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Vĩnh Hưng, Tỉnh Long An"
+  },
+  "798": {
+    "code": "798",
+    "name": "Huyện Mộc Hóa",
+    "slug": "huyen-moc-hoa",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Mộc Hóa, Tỉnh Long An"
+  },
+  "799": {
+    "code": "799",
+    "name": "Huyện Tân Thạnh",
+    "slug": "huyen-tan-thanh",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Tân Thạnh, Tỉnh Long An"
+  },
+  "800": {
+    "code": "800",
+    "name": "Huyện Thạnh Hóa",
+    "slug": "huyen-thanh-hoa",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Thạnh Hóa, Tỉnh Long An"
+  },
+  "801": {
+    "code": "801",
+    "name": "Huyện Đức Huệ",
+    "slug": "huyen-duc-hue",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Đức Huệ, Tỉnh Long An"
+  },
+  "802": {
+    "code": "802",
+    "name": "Huyện Đức Hòa",
+    "slug": "huyen-duc-hoa",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Đức Hòa, Tỉnh Long An"
+  },
+  "803": {
+    "code": "803",
+    "name": "Huyện Bến Lức",
+    "slug": "huyen-ben-luc",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Bến Lức, Tỉnh Long An"
+  },
+  "804": {
+    "code": "804",
+    "name": "Huyện Thủ Thừa",
+    "slug": "huyen-thu-thua",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Thủ Thừa, Tỉnh Long An"
+  },
+  "805": {
+    "code": "805",
+    "name": "Huyện Tân Trụ",
+    "slug": "huyen-tan-tru",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Tân Trụ, Tỉnh Long An"
+  },
+  "806": {
+    "code": "806",
+    "name": "Huyện Cần Đước",
+    "slug": "huyen-can-duoc",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Cần Đước, Tỉnh Long An"
+  },
+  "807": {
+    "code": "807",
+    "name": "Huyện Cần Giuộc",
+    "slug": "huyen-can-giuoc",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Cần Giuộc, Tỉnh Long An"
+  },
+  "808": {
+    "code": "808",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "80",
+    "provinceName": "Tỉnh Long An",
+    "fullName": "Huyện Châu Thành, Tỉnh Long An"
+  },
+  "815": {
+    "code": "815",
+    "name": "Thành phố Mỹ Tho",
+    "slug": "thanh-pho-my-tho",
+    "unit": "Thành phố",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Thành phố Mỹ Tho, Tỉnh Tiền Giang"
+  },
+  "816": {
+    "code": "816",
+    "name": "Thị xã Gò Công",
+    "slug": "thi-xa-go-cong",
+    "unit": "Thị xã",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Thị xã Gò Công, Tỉnh Tiền Giang"
+  },
+  "817": {
+    "code": "817",
+    "name": "Thị xã Cai Lậy",
+    "slug": "thi-xa-cai-lay",
+    "unit": "Thị xã",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Thị xã Cai Lậy, Tỉnh Tiền Giang"
+  },
+  "818": {
+    "code": "818",
+    "name": "Huyện Tân Phước",
+    "slug": "huyen-tan-phuoc",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Tân Phước, Tỉnh Tiền Giang"
+  },
+  "819": {
+    "code": "819",
+    "name": "Huyện Cái Bè",
+    "slug": "huyen-cai-be",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Cái Bè, Tỉnh Tiền Giang"
+  },
+  "820": {
+    "code": "820",
+    "name": "Huyện Cai Lậy",
+    "slug": "huyen-cai-lay",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Cai Lậy, Tỉnh Tiền Giang"
+  },
+  "821": {
+    "code": "821",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Châu Thành, Tỉnh Tiền Giang"
+  },
+  "822": {
+    "code": "822",
+    "name": "Huyện Chợ Gạo",
+    "slug": "huyen-cho-gao",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Chợ Gạo, Tỉnh Tiền Giang"
+  },
+  "823": {
+    "code": "823",
+    "name": "Huyện Gò Công Tây",
+    "slug": "huyen-go-cong-tay",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Gò Công Tây, Tỉnh Tiền Giang"
+  },
+  "824": {
+    "code": "824",
+    "name": "Huyện Gò Công Đông",
+    "slug": "huyen-go-cong-dong",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Gò Công Đông, Tỉnh Tiền Giang"
+  },
+  "825": {
+    "code": "825",
+    "name": "Huyện Tân Phú Đông",
+    "slug": "huyen-tan-phu-dong",
+    "unit": "Huyện",
+    "provinceCode": "82",
+    "provinceName": "Tỉnh Tiền Giang",
+    "fullName": "Huyện Tân Phú Đông, Tỉnh Tiền Giang"
+  },
+  "829": {
+    "code": "829",
+    "name": "Thành phố Bến Tre",
+    "slug": "thanh-pho-ben-tre",
+    "unit": "Thành phố",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Thành phố Bến Tre, Tỉnh Bến Tre"
+  },
+  "831": {
+    "code": "831",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Châu Thành, Tỉnh Bến Tre"
+  },
+  "832": {
+    "code": "832",
+    "name": "Huyện Chợ Lách",
+    "slug": "huyen-cho-lach",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Chợ Lách, Tỉnh Bến Tre"
+  },
+  "833": {
+    "code": "833",
+    "name": "Huyện Mỏ Cày Nam",
+    "slug": "huyen-mo-cay-nam",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Mỏ Cày Nam, Tỉnh Bến Tre"
+  },
+  "834": {
+    "code": "834",
+    "name": "Huyện Giồng Trôm",
+    "slug": "huyen-giong-trom",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Giồng Trôm, Tỉnh Bến Tre"
+  },
+  "835": {
+    "code": "835",
+    "name": "Huyện Bình Đại",
+    "slug": "huyen-binh-dai",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Bình Đại, Tỉnh Bến Tre"
+  },
+  "836": {
+    "code": "836",
+    "name": "Huyện Ba Tri",
+    "slug": "huyen-ba-tri",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Ba Tri, Tỉnh Bến Tre"
+  },
+  "837": {
+    "code": "837",
+    "name": "Huyện Thạnh Phú",
+    "slug": "huyen-thanh-phu",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Thạnh Phú, Tỉnh Bến Tre"
+  },
+  "838": {
+    "code": "838",
+    "name": "Huyện Mỏ Cày Bắc",
+    "slug": "huyen-mo-cay-bac",
+    "unit": "Huyện",
+    "provinceCode": "83",
+    "provinceName": "Tỉnh Bến Tre",
+    "fullName": "Huyện Mỏ Cày Bắc, Tỉnh Bến Tre"
+  },
+  "842": {
+    "code": "842",
+    "name": "Thành phố Trà Vinh",
+    "slug": "thanh-pho-tra-vinh",
+    "unit": "Thành phố",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Thành phố Trà Vinh, Tỉnh Trà Vinh"
+  },
+  "844": {
+    "code": "844",
+    "name": "Huyện Càng Long",
+    "slug": "huyen-cang-long",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Càng Long, Tỉnh Trà Vinh"
+  },
+  "845": {
+    "code": "845",
+    "name": "Huyện Cầu Kè",
+    "slug": "huyen-cau-ke",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Cầu Kè, Tỉnh Trà Vinh"
+  },
+  "846": {
+    "code": "846",
+    "name": "Huyện Tiểu Cần",
+    "slug": "huyen-tieu-can",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Tiểu Cần, Tỉnh Trà Vinh"
+  },
+  "847": {
+    "code": "847",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Châu Thành, Tỉnh Trà Vinh"
+  },
+  "848": {
+    "code": "848",
+    "name": "Huyện Cầu Ngang",
+    "slug": "huyen-cau-ngang",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Cầu Ngang, Tỉnh Trà Vinh"
+  },
+  "849": {
+    "code": "849",
+    "name": "Huyện Trà Cú",
+    "slug": "huyen-tra-cu",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Trà Cú, Tỉnh Trà Vinh"
+  },
+  "850": {
+    "code": "850",
+    "name": "Huyện Duyên Hải",
+    "slug": "huyen-duyen-hai",
+    "unit": "Huyện",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Huyện Duyên Hải, Tỉnh Trà Vinh"
+  },
+  "851": {
+    "code": "851",
+    "name": "Thị xã Duyên Hải",
+    "slug": "thi-xa-duyen-hai",
+    "unit": "Thị xã",
+    "provinceCode": "84",
+    "provinceName": "Tỉnh Trà Vinh",
+    "fullName": "Thị xã Duyên Hải, Tỉnh Trà Vinh"
+  },
+  "855": {
+    "code": "855",
+    "name": "Thành phố Vĩnh Long",
+    "slug": "thanh-pho-vinh-long",
+    "unit": "Thành phố",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Thành phố Vĩnh Long, Tỉnh Vĩnh Long"
+  },
+  "857": {
+    "code": "857",
+    "name": "Huyện Long Hồ",
+    "slug": "huyen-long-ho",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện Long Hồ, Tỉnh Vĩnh Long"
+  },
+  "858": {
+    "code": "858",
+    "name": "Huyện Mang Thít",
+    "slug": "huyen-mang-thit",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện Mang Thít, Tỉnh Vĩnh Long"
+  },
+  "859": {
+    "code": "859",
+    "name": "Huyện  Vũng Liêm",
+    "slug": "huyen-vung-liem",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện  Vũng Liêm, Tỉnh Vĩnh Long"
+  },
+  "860": {
+    "code": "860",
+    "name": "Huyện Tam Bình",
+    "slug": "huyen-tam-binh",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện Tam Bình, Tỉnh Vĩnh Long"
+  },
+  "861": {
+    "code": "861",
+    "name": "Thị xã Bình Minh",
+    "slug": "thi-xa-binh-minh",
+    "unit": "Thị xã",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Thị xã Bình Minh, Tỉnh Vĩnh Long"
+  },
+  "862": {
+    "code": "862",
+    "name": "Huyện Trà Ôn",
+    "slug": "huyen-tra-on",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện Trà Ôn, Tỉnh Vĩnh Long"
+  },
+  "863": {
+    "code": "863",
+    "name": "Huyện Bình Tân",
+    "slug": "huyen-binh-tan",
+    "unit": "Huyện",
+    "provinceCode": "86",
+    "provinceName": "Tỉnh Vĩnh Long",
+    "fullName": "Huyện Bình Tân, Tỉnh Vĩnh Long"
+  },
+  "866": {
+    "code": "866",
+    "name": "Thành phố Cao Lãnh",
+    "slug": "thanh-pho-cao-lanh",
+    "unit": "Thành phố",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Thành phố Cao Lãnh, Tỉnh Đồng Tháp"
+  },
+  "867": {
+    "code": "867",
+    "name": "Thành phố Sa Đéc",
+    "slug": "thanh-pho-sa-dec",
+    "unit": "Thành phố",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Thành phố Sa Đéc, Tỉnh Đồng Tháp"
+  },
+  "868": {
+    "code": "868",
+    "name": "Thành phố Hồng Ngự",
+    "slug": "thanh-pho-hong-ngu",
+    "unit": "Thành phố",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Thành phố Hồng Ngự, Tỉnh Đồng Tháp"
+  },
+  "869": {
+    "code": "869",
+    "name": "Huyện Tân Hồng",
+    "slug": "huyen-tan-hong",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Tân Hồng, Tỉnh Đồng Tháp"
+  },
+  "870": {
+    "code": "870",
+    "name": "Huyện Hồng Ngự",
+    "slug": "huyen-hong-ngu",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Hồng Ngự, Tỉnh Đồng Tháp"
+  },
+  "871": {
+    "code": "871",
+    "name": "Huyện Tam Nông",
+    "slug": "huyen-tam-nong",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Tam Nông, Tỉnh Đồng Tháp"
+  },
+  "872": {
+    "code": "872",
+    "name": "Huyện Tháp Mười",
+    "slug": "huyen-thap-muoi",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Tháp Mười, Tỉnh Đồng Tháp"
+  },
+  "873": {
+    "code": "873",
+    "name": "Huyện Cao Lãnh",
+    "slug": "huyen-cao-lanh",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Cao Lãnh, Tỉnh Đồng Tháp"
+  },
+  "874": {
+    "code": "874",
+    "name": "Huyện Thanh Bình",
+    "slug": "huyen-thanh-binh",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Thanh Bình, Tỉnh Đồng Tháp"
+  },
+  "875": {
+    "code": "875",
+    "name": "Huyện Lấp Vò",
+    "slug": "huyen-lap-vo",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Lấp Vò, Tỉnh Đồng Tháp"
+  },
+  "876": {
+    "code": "876",
+    "name": "Huyện Lai Vung",
+    "slug": "huyen-lai-vung",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Lai Vung, Tỉnh Đồng Tháp"
+  },
+  "877": {
+    "code": "877",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "87",
+    "provinceName": "Tỉnh Đồng Tháp",
+    "fullName": "Huyện Châu Thành, Tỉnh Đồng Tháp"
+  },
+  "883": {
+    "code": "883",
+    "name": "Thành phố Long Xuyên",
+    "slug": "thanh-pho-long-xuyen",
+    "unit": "Thành phố",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Thành phố Long Xuyên, Tỉnh An Giang"
+  },
+  "884": {
+    "code": "884",
+    "name": "Thành phố Châu Đốc",
+    "slug": "thanh-pho-chau-doc",
+    "unit": "Thành phố",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Thành phố Châu Đốc, Tỉnh An Giang"
+  },
+  "886": {
+    "code": "886",
+    "name": "Huyện An Phú",
+    "slug": "huyen-an-phu",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện An Phú, Tỉnh An Giang"
+  },
+  "887": {
+    "code": "887",
+    "name": "Thị xã Tân Châu",
+    "slug": "thi-xa-tan-chau",
+    "unit": "Thị xã",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Thị xã Tân Châu, Tỉnh An Giang"
+  },
+  "888": {
+    "code": "888",
+    "name": "Huyện Phú Tân",
+    "slug": "huyen-phu-tan",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Phú Tân, Tỉnh An Giang"
+  },
+  "889": {
+    "code": "889",
+    "name": "Huyện Châu Phú",
+    "slug": "huyen-chau-phu",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Châu Phú, Tỉnh An Giang"
+  },
+  "890": {
+    "code": "890",
+    "name": "Huyện Tịnh Biên",
+    "slug": "huyen-tinh-bien",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Tịnh Biên, Tỉnh An Giang"
+  },
+  "891": {
+    "code": "891",
+    "name": "Huyện Tri Tôn",
+    "slug": "huyen-tri-ton",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Tri Tôn, Tỉnh An Giang"
+  },
+  "892": {
+    "code": "892",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Châu Thành, Tỉnh An Giang"
+  },
+  "893": {
+    "code": "893",
+    "name": "Huyện Chợ Mới",
+    "slug": "huyen-cho-moi",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Chợ Mới, Tỉnh An Giang"
+  },
+  "894": {
+    "code": "894",
+    "name": "Huyện Thoại Sơn",
+    "slug": "huyen-thoai-son",
+    "unit": "Huyện",
+    "provinceCode": "89",
+    "provinceName": "Tỉnh An Giang",
+    "fullName": "Huyện Thoại Sơn, Tỉnh An Giang"
+  },
+  "899": {
+    "code": "899",
+    "name": "Thành phố Rạch Giá",
+    "slug": "thanh-pho-rach-gia",
+    "unit": "Thành phố",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Thành phố Rạch Giá, Tỉnh Kiên Giang"
+  },
+  "900": {
+    "code": "900",
+    "name": "Thành phố Hà Tiên",
+    "slug": "thanh-pho-ha-tien",
+    "unit": "Thành phố",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Thành phố Hà Tiên, Tỉnh Kiên Giang"
+  },
+  "902": {
+    "code": "902",
+    "name": "Huyện Kiên Lương",
+    "slug": "huyen-kien-luong",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Kiên Lương, Tỉnh Kiên Giang"
+  },
+  "903": {
+    "code": "903",
+    "name": "Huyện Hòn Đất",
+    "slug": "huyen-hon-dat",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Hòn Đất, Tỉnh Kiên Giang"
+  },
+  "904": {
+    "code": "904",
+    "name": "Huyện Tân Hiệp",
+    "slug": "huyen-tan-hiep",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Tân Hiệp, Tỉnh Kiên Giang"
+  },
+  "905": {
+    "code": "905",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Châu Thành, Tỉnh Kiên Giang"
+  },
+  "906": {
+    "code": "906",
+    "name": "Huyện Giồng Riềng",
+    "slug": "huyen-giong-rieng",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Giồng Riềng, Tỉnh Kiên Giang"
+  },
+  "907": {
+    "code": "907",
+    "name": "Huyện Gò Quao",
+    "slug": "huyen-go-quao",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Gò Quao, Tỉnh Kiên Giang"
+  },
+  "908": {
+    "code": "908",
+    "name": "Huyện An Biên",
+    "slug": "huyen-an-bien",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện An Biên, Tỉnh Kiên Giang"
+  },
+  "909": {
+    "code": "909",
+    "name": "Huyện An Minh",
+    "slug": "huyen-an-minh",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện An Minh, Tỉnh Kiên Giang"
+  },
+  "910": {
+    "code": "910",
+    "name": "Huyện Vĩnh Thuận",
+    "slug": "huyen-vinh-thuan",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Vĩnh Thuận, Tỉnh Kiên Giang"
+  },
+  "911": {
+    "code": "911",
+    "name": "Thành phố Phú Quốc",
+    "slug": "thanh-pho-phu-quoc",
+    "unit": "Thành phố",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Thành phố Phú Quốc, Tỉnh Kiên Giang"
+  },
+  "912": {
+    "code": "912",
+    "name": "Huyện Kiên Hải",
+    "slug": "huyen-kien-hai",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Kiên Hải, Tỉnh Kiên Giang"
+  },
+  "913": {
+    "code": "913",
+    "name": "Huyện U Minh Thượng",
+    "slug": "huyen-u-minh-thuong",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện U Minh Thượng, Tỉnh Kiên Giang"
+  },
+  "914": {
+    "code": "914",
+    "name": "Huyện Giang Thành",
+    "slug": "huyen-giang-thanh",
+    "unit": "Huyện",
+    "provinceCode": "91",
+    "provinceName": "Tỉnh Kiên Giang",
+    "fullName": "Huyện Giang Thành, Tỉnh Kiên Giang"
+  },
+  "916": {
+    "code": "916",
+    "name": "Quận Ninh Kiều",
+    "slug": "quan-ninh-kieu",
+    "unit": "Quận",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Quận Ninh Kiều, Thành phố Cần Thơ"
+  },
+  "917": {
+    "code": "917",
+    "name": "Quận Ô Môn",
+    "slug": "quan-o-mon",
+    "unit": "Quận",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Quận Ô Môn, Thành phố Cần Thơ"
+  },
+  "918": {
+    "code": "918",
+    "name": "Quận Bình Thuỷ",
+    "slug": "quan-binh-thuy",
+    "unit": "Quận",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Quận Bình Thuỷ, Thành phố Cần Thơ"
+  },
+  "919": {
+    "code": "919",
+    "name": "Quận Cái Răng",
+    "slug": "quan-cai-rang",
+    "unit": "Quận",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Quận Cái Răng, Thành phố Cần Thơ"
+  },
+  "923": {
+    "code": "923",
+    "name": "Quận Thốt Nốt",
+    "slug": "quan-thot-not",
+    "unit": "Quận",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Quận Thốt Nốt, Thành phố Cần Thơ"
+  },
+  "924": {
+    "code": "924",
+    "name": "Huyện Vĩnh Thạnh",
+    "slug": "huyen-vinh-thanh",
+    "unit": "Huyện",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Huyện Vĩnh Thạnh, Thành phố Cần Thơ"
+  },
+  "925": {
+    "code": "925",
+    "name": "Huyện Cờ Đỏ",
+    "slug": "huyen-co-do",
+    "unit": "Huyện",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Huyện Cờ Đỏ, Thành phố Cần Thơ"
+  },
+  "926": {
+    "code": "926",
+    "name": "Huyện Phong Điền",
+    "slug": "huyen-phong-dien",
+    "unit": "Huyện",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Huyện Phong Điền, Thành phố Cần Thơ"
+  },
+  "927": {
+    "code": "927",
+    "name": "Huyện Thới Lai",
+    "slug": "huyen-thoi-lai",
+    "unit": "Huyện",
+    "provinceCode": "92",
+    "provinceName": "Thành phố Cần Thơ",
+    "fullName": "Huyện Thới Lai, Thành phố Cần Thơ"
+  },
+  "930": {
+    "code": "930",
+    "name": "Thành phố Vị Thanh",
+    "slug": "thanh-pho-vi-thanh",
+    "unit": "Thành phố",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Thành phố Vị Thanh, Tỉnh Hậu Giang"
+  },
+  "931": {
+    "code": "931",
+    "name": "Thành phố Ngã Bảy",
+    "slug": "thanh-pho-nga-bay",
+    "unit": "Thành phố",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Thành phố Ngã Bảy, Tỉnh Hậu Giang"
+  },
+  "932": {
+    "code": "932",
+    "name": "Huyện Châu Thành A",
+    "slug": "huyen-chau-thanh-a",
+    "unit": "Huyện",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Huyện Châu Thành A, Tỉnh Hậu Giang"
+  },
+  "933": {
+    "code": "933",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Huyện Châu Thành, Tỉnh Hậu Giang"
+  },
+  "934": {
+    "code": "934",
+    "name": "Huyện Phụng Hiệp",
+    "slug": "huyen-phung-hiep",
+    "unit": "Huyện",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Huyện Phụng Hiệp, Tỉnh Hậu Giang"
+  },
+  "935": {
+    "code": "935",
+    "name": "Huyện Vị Thuỷ",
+    "slug": "huyen-vi-thuy",
+    "unit": "Huyện",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Huyện Vị Thuỷ, Tỉnh Hậu Giang"
+  },
+  "936": {
+    "code": "936",
+    "name": "Huyện Long Mỹ",
+    "slug": "huyen-long-my",
+    "unit": "Huyện",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Huyện Long Mỹ, Tỉnh Hậu Giang"
+  },
+  "937": {
+    "code": "937",
+    "name": "Thị xã Long Mỹ",
+    "slug": "thi-xa-long-my",
+    "unit": "Thị xã",
+    "provinceCode": "93",
+    "provinceName": "Tỉnh Hậu Giang",
+    "fullName": "Thị xã Long Mỹ, Tỉnh Hậu Giang"
+  },
+  "941": {
+    "code": "941",
+    "name": "Thành phố Sóc Trăng",
+    "slug": "thanh-pho-soc-trang",
+    "unit": "Thành phố",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Thành phố Sóc Trăng, Tỉnh Sóc Trăng"
+  },
+  "942": {
+    "code": "942",
+    "name": "Huyện Châu Thành",
+    "slug": "huyen-chau-thanh",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Châu Thành, Tỉnh Sóc Trăng"
+  },
+  "943": {
+    "code": "943",
+    "name": "Huyện Kế Sách",
+    "slug": "huyen-ke-sach",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Kế Sách, Tỉnh Sóc Trăng"
+  },
+  "944": {
+    "code": "944",
+    "name": "Huyện Mỹ Tú",
+    "slug": "huyen-my-tu",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Mỹ Tú, Tỉnh Sóc Trăng"
+  },
+  "945": {
+    "code": "945",
+    "name": "Huyện Cù Lao Dung",
+    "slug": "huyen-cu-lao-dung",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Cù Lao Dung, Tỉnh Sóc Trăng"
+  },
+  "946": {
+    "code": "946",
+    "name": "Huyện Long Phú",
+    "slug": "huyen-long-phu",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Long Phú, Tỉnh Sóc Trăng"
+  },
+  "947": {
+    "code": "947",
+    "name": "Huyện Mỹ Xuyên",
+    "slug": "huyen-my-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Mỹ Xuyên, Tỉnh Sóc Trăng"
+  },
+  "948": {
+    "code": "948",
+    "name": "Thị xã Ngã Năm",
+    "slug": "thi-xa-nga-nam",
+    "unit": "Thị xã",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Thị xã Ngã Năm, Tỉnh Sóc Trăng"
+  },
+  "949": {
+    "code": "949",
+    "name": "Huyện Thạnh Trị",
+    "slug": "huyen-thanh-tri",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Thạnh Trị, Tỉnh Sóc Trăng"
+  },
+  "950": {
+    "code": "950",
+    "name": "Thị xã Vĩnh Châu",
+    "slug": "thi-xa-vinh-chau",
+    "unit": "Thị xã",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Thị xã Vĩnh Châu, Tỉnh Sóc Trăng"
+  },
+  "951": {
+    "code": "951",
+    "name": "Huyện Trần Đề",
+    "slug": "huyen-tran-de",
+    "unit": "Huyện",
+    "provinceCode": "94",
+    "provinceName": "Tỉnh Sóc Trăng",
+    "fullName": "Huyện Trần Đề, Tỉnh Sóc Trăng"
+  },
+  "954": {
+    "code": "954",
+    "name": "Thành phố Bạc Liêu",
+    "slug": "thanh-pho-bac-lieu",
+    "unit": "Thành phố",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Thành phố Bạc Liêu, Tỉnh Bạc Liêu"
+  },
+  "956": {
+    "code": "956",
+    "name": "Huyện Hồng Dân",
+    "slug": "huyen-hong-dan",
+    "unit": "Huyện",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Huyện Hồng Dân, Tỉnh Bạc Liêu"
+  },
+  "957": {
+    "code": "957",
+    "name": "Huyện Phước Long",
+    "slug": "huyen-phuoc-long",
+    "unit": "Huyện",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Huyện Phước Long, Tỉnh Bạc Liêu"
+  },
+  "958": {
+    "code": "958",
+    "name": "Huyện Vĩnh Lợi",
+    "slug": "huyen-vinh-loi",
+    "unit": "Huyện",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Huyện Vĩnh Lợi, Tỉnh Bạc Liêu"
+  },
+  "959": {
+    "code": "959",
+    "name": "Thị xã Giá Rai",
+    "slug": "thi-xa-gia-rai",
+    "unit": "Thị xã",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Thị xã Giá Rai, Tỉnh Bạc Liêu"
+  },
+  "960": {
+    "code": "960",
+    "name": "Huyện Đông Hải",
+    "slug": "huyen-dong-hai",
+    "unit": "Huyện",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Huyện Đông Hải, Tỉnh Bạc Liêu"
+  },
+  "961": {
+    "code": "961",
+    "name": "Huyện Hoà Bình",
+    "slug": "huyen-hoa-binh",
+    "unit": "Huyện",
+    "provinceCode": "95",
+    "provinceName": "Tỉnh Bạc Liêu",
+    "fullName": "Huyện Hoà Bình, Tỉnh Bạc Liêu"
+  },
+  "964": {
+    "code": "964",
+    "name": "Thành phố Cà Mau",
+    "slug": "thanh-pho-ca-mau",
+    "unit": "Thành phố",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Thành phố Cà Mau, Tỉnh Cà Mau"
+  },
+  "966": {
+    "code": "966",
+    "name": "Huyện U Minh",
+    "slug": "huyen-u-minh",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện U Minh, Tỉnh Cà Mau"
+  },
+  "967": {
+    "code": "967",
+    "name": "Huyện Thới Bình",
+    "slug": "huyen-thoi-binh",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Thới Bình, Tỉnh Cà Mau"
+  },
+  "968": {
+    "code": "968",
+    "name": "Huyện Trần Văn Thời",
+    "slug": "huyen-tran-van-thoi",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Trần Văn Thời, Tỉnh Cà Mau"
+  },
+  "969": {
+    "code": "969",
+    "name": "Huyện Cái Nước",
+    "slug": "huyen-cai-nuoc",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Cái Nước, Tỉnh Cà Mau"
+  },
+  "970": {
+    "code": "970",
+    "name": "Huyện Đầm Dơi",
+    "slug": "huyen-dam-doi",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Đầm Dơi, Tỉnh Cà Mau"
+  },
+  "971": {
+    "code": "971",
+    "name": "Huyện Năm Căn",
+    "slug": "huyen-nam-can",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Năm Căn, Tỉnh Cà Mau"
+  },
+  "972": {
+    "code": "972",
+    "name": "Huyện Phú Tân",
+    "slug": "huyen-phu-tan",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Phú Tân, Tỉnh Cà Mau"
+  },
+  "973": {
+    "code": "973",
+    "name": "Huyện Ngọc Hiển",
+    "slug": "huyen-ngoc-hien",
+    "unit": "Huyện",
+    "provinceCode": "96",
+    "provinceName": "Tỉnh Cà Mau",
+    "fullName": "Huyện Ngọc Hiển, Tỉnh Cà Mau"
+  },
+  "001": {
+    "code": "001",
+    "name": "Quận Ba Đình",
+    "slug": "quan-ba-dinh",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Ba Đình, Thành phố Hà Nội"
+  },
+  "002": {
+    "code": "002",
+    "name": "Quận Hoàn Kiếm",
+    "slug": "quan-hoan-kiem",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Hoàn Kiếm, Thành phố Hà Nội"
+  },
+  "003": {
+    "code": "003",
+    "name": "Quận Tây Hồ",
+    "slug": "quan-tay-ho",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Tây Hồ, Thành phố Hà Nội"
+  },
+  "004": {
+    "code": "004",
+    "name": "Quận Long Biên",
+    "slug": "quan-long-bien",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Long Biên, Thành phố Hà Nội"
+  },
+  "005": {
+    "code": "005",
+    "name": "Quận Cầu Giấy",
+    "slug": "quan-cau-giay",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Cầu Giấy, Thành phố Hà Nội"
+  },
+  "006": {
+    "code": "006",
+    "name": "Quận Đống Đa",
+    "slug": "quan-dong-da",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Đống Đa, Thành phố Hà Nội"
+  },
+  "007": {
+    "code": "007",
+    "name": "Quận Hai Bà Trưng",
+    "slug": "quan-hai-ba-trung",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Hai Bà Trưng, Thành phố Hà Nội"
+  },
+  "008": {
+    "code": "008",
+    "name": "Quận Hoàng Mai",
+    "slug": "quan-hoang-mai",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Hoàng Mai, Thành phố Hà Nội"
+  },
+  "009": {
+    "code": "009",
+    "name": "Quận Thanh Xuân",
+    "slug": "quan-thanh-xuan",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Thanh Xuân, Thành phố Hà Nội"
+  },
+  "016": {
+    "code": "016",
+    "name": "Huyện Sóc Sơn",
+    "slug": "huyen-soc-son",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Sóc Sơn, Thành phố Hà Nội"
+  },
+  "017": {
+    "code": "017",
+    "name": "Huyện Đông Anh",
+    "slug": "huyen-dong-anh",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Đông Anh, Thành phố Hà Nội"
+  },
+  "018": {
+    "code": "018",
+    "name": "Huyện Gia Lâm",
+    "slug": "huyen-gia-lam",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Gia Lâm, Thành phố Hà Nội"
+  },
+  "019": {
+    "code": "019",
+    "name": "Quận Nam Từ Liêm",
+    "slug": "quan-nam-tu-liem",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Nam Từ Liêm, Thành phố Hà Nội"
+  },
+  "020": {
+    "code": "020",
+    "name": "Huyện Thanh Trì",
+    "slug": "huyen-thanh-tri",
+    "unit": "Huyện",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Huyện Thanh Trì, Thành phố Hà Nội"
+  },
+  "021": {
+    "code": "021",
+    "name": "Quận Bắc Từ Liêm",
+    "slug": "quan-bac-tu-liem",
+    "unit": "Quận",
+    "provinceCode": "01",
+    "provinceName": "Thành phố Hà Nội",
+    "fullName": "Quận Bắc Từ Liêm, Thành phố Hà Nội"
+  },
+  "024": {
+    "code": "024",
+    "name": "Thành phố Hà Giang",
+    "slug": "thanh-pho-ha-giang",
+    "unit": "Thành phố",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Thành phố Hà Giang, Tỉnh Hà Giang"
+  },
+  "026": {
+    "code": "026",
+    "name": "Huyện Đồng Văn",
+    "slug": "huyen-dong-van",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Đồng Văn, Tỉnh Hà Giang"
+  },
+  "027": {
+    "code": "027",
+    "name": "Huyện Mèo Vạc",
+    "slug": "huyen-meo-vac",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Mèo Vạc, Tỉnh Hà Giang"
+  },
+  "028": {
+    "code": "028",
+    "name": "Huyện Yên Minh",
+    "slug": "huyen-yen-minh",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Yên Minh, Tỉnh Hà Giang"
+  },
+  "029": {
+    "code": "029",
+    "name": "Huyện Quản Bạ",
+    "slug": "huyen-quan-ba",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Quản Bạ, Tỉnh Hà Giang"
+  },
+  "030": {
+    "code": "030",
+    "name": "Huyện Vị Xuyên",
+    "slug": "huyen-vi-xuyen",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Vị Xuyên, Tỉnh Hà Giang"
+  },
+  "031": {
+    "code": "031",
+    "name": "Huyện Bắc Mê",
+    "slug": "huyen-bac-me",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Bắc Mê, Tỉnh Hà Giang"
+  },
+  "032": {
+    "code": "032",
+    "name": "Huyện Hoàng Su Phì",
+    "slug": "huyen-hoang-su-phi",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Hoàng Su Phì, Tỉnh Hà Giang"
+  },
+  "033": {
+    "code": "033",
+    "name": "Huyện Xín Mần",
+    "slug": "huyen-xin-man",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Xín Mần, Tỉnh Hà Giang"
+  },
+  "034": {
+    "code": "034",
+    "name": "Huyện Bắc Quang",
+    "slug": "huyen-bac-quang",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Bắc Quang, Tỉnh Hà Giang"
+  },
+  "035": {
+    "code": "035",
+    "name": "Huyện Quang Bình",
+    "slug": "huyen-quang-binh",
+    "unit": "Huyện",
+    "provinceCode": "02",
+    "provinceName": "Tỉnh Hà Giang",
+    "fullName": "Huyện Quang Bình, Tỉnh Hà Giang"
+  },
+  "040": {
+    "code": "040",
+    "name": "Thành phố Cao Bằng",
+    "slug": "thanh-pho-cao-bang",
+    "unit": "Thành phố",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Thành phố Cao Bằng, Tỉnh Cao Bằng"
+  },
+  "042": {
+    "code": "042",
+    "name": "Huyện Bảo Lâm",
+    "slug": "huyen-bao-lam",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Bảo Lâm, Tỉnh Cao Bằng"
+  },
+  "043": {
+    "code": "043",
+    "name": "Huyện Bảo Lạc",
+    "slug": "huyen-bao-lac",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Bảo Lạc, Tỉnh Cao Bằng"
+  },
+  "045": {
+    "code": "045",
+    "name": "Huyện Hà Quảng",
+    "slug": "huyen-ha-quang",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Hà Quảng, Tỉnh Cao Bằng"
+  },
+  "047": {
+    "code": "047",
+    "name": "Huyện Trùng Khánh",
+    "slug": "huyen-trung-khanh",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Trùng Khánh, Tỉnh Cao Bằng"
+  },
+  "048": {
+    "code": "048",
+    "name": "Huyện Hạ Lang",
+    "slug": "huyen-ha-lang",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Hạ Lang, Tỉnh Cao Bằng"
+  },
+  "049": {
+    "code": "049",
+    "name": "Huyện Quảng Hòa",
+    "slug": "huyen-quang-hoa",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Quảng Hòa, Tỉnh Cao Bằng"
+  },
+  "051": {
+    "code": "051",
+    "name": "Huyện Hoà An",
+    "slug": "huyen-hoa-an",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Hoà An, Tỉnh Cao Bằng"
+  },
+  "052": {
+    "code": "052",
+    "name": "Huyện Nguyên Bình",
+    "slug": "huyen-nguyen-binh",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Nguyên Bình, Tỉnh Cao Bằng"
+  },
+  "053": {
+    "code": "053",
+    "name": "Huyện Thạch An",
+    "slug": "huyen-thach-an",
+    "unit": "Huyện",
+    "provinceCode": "04",
+    "provinceName": "Tỉnh Cao Bằng",
+    "fullName": "Huyện Thạch An, Tỉnh Cao Bằng"
+  },
+  "058": {
+    "code": "058",
+    "name": "Thành Phố Bắc Kạn",
+    "slug": "thanh-pho-bac-kan",
+    "unit": "Thành phố",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Thành Phố Bắc Kạn, Tỉnh Bắc Kạn"
+  },
+  "060": {
+    "code": "060",
+    "name": "Huyện Pác Nặm",
+    "slug": "huyen-pac-nam",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Pác Nặm, Tỉnh Bắc Kạn"
+  },
+  "061": {
+    "code": "061",
+    "name": "Huyện Ba Bể",
+    "slug": "huyen-ba-be",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Ba Bể, Tỉnh Bắc Kạn"
+  },
+  "062": {
+    "code": "062",
+    "name": "Huyện Ngân Sơn",
+    "slug": "huyen-ngan-son",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Ngân Sơn, Tỉnh Bắc Kạn"
+  },
+  "063": {
+    "code": "063",
+    "name": "Huyện Bạch Thông",
+    "slug": "huyen-bach-thong",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Bạch Thông, Tỉnh Bắc Kạn"
+  },
+  "064": {
+    "code": "064",
+    "name": "Huyện Chợ Đồn",
+    "slug": "huyen-cho-don",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Chợ Đồn, Tỉnh Bắc Kạn"
+  },
+  "065": {
+    "code": "065",
+    "name": "Huyện Chợ Mới",
+    "slug": "huyen-cho-moi",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Chợ Mới, Tỉnh Bắc Kạn"
+  },
+  "066": {
+    "code": "066",
+    "name": "Huyện Na Rì",
+    "slug": "huyen-na-ri",
+    "unit": "Huyện",
+    "provinceCode": "06",
+    "provinceName": "Tỉnh Bắc Kạn",
+    "fullName": "Huyện Na Rì, Tỉnh Bắc Kạn"
+  },
+  "070": {
+    "code": "070",
+    "name": "Thành phố Tuyên Quang",
+    "slug": "thanh-pho-tuyen-quang",
+    "unit": "Thành phố",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Thành phố Tuyên Quang, Tỉnh Tuyên Quang"
+  },
+  "071": {
+    "code": "071",
+    "name": "Huyện Lâm Bình",
+    "slug": "huyen-lam-binh",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Lâm Bình, Tỉnh Tuyên Quang"
+  },
+  "072": {
+    "code": "072",
+    "name": "Huyện Na Hang",
+    "slug": "huyen-na-hang",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Na Hang, Tỉnh Tuyên Quang"
+  },
+  "073": {
+    "code": "073",
+    "name": "Huyện Chiêm Hóa",
+    "slug": "huyen-chiem-hoa",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Chiêm Hóa, Tỉnh Tuyên Quang"
+  },
+  "074": {
+    "code": "074",
+    "name": "Huyện Hàm Yên",
+    "slug": "huyen-ham-yen",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Hàm Yên, Tỉnh Tuyên Quang"
+  },
+  "075": {
+    "code": "075",
+    "name": "Huyện Yên Sơn",
+    "slug": "huyen-yen-son",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Yên Sơn, Tỉnh Tuyên Quang"
+  },
+  "076": {
+    "code": "076",
+    "name": "Huyện Sơn Dương",
+    "slug": "huyen-son-duong",
+    "unit": "Huyện",
+    "provinceCode": "08",
+    "provinceName": "Tỉnh Tuyên Quang",
+    "fullName": "Huyện Sơn Dương, Tỉnh Tuyên Quang"
+  },
+  "080": {
+    "code": "080",
+    "name": "Thành phố Lào Cai",
+    "slug": "thanh-pho-lao-cai",
+    "unit": "Thành phố",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Thành phố Lào Cai, Tỉnh Lào Cai"
+  },
+  "082": {
+    "code": "082",
+    "name": "Huyện Bát Xát",
+    "slug": "huyen-bat-xat",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Bát Xát, Tỉnh Lào Cai"
+  },
+  "083": {
+    "code": "083",
+    "name": "Huyện Mường Khương",
+    "slug": "huyen-muong-khuong",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Mường Khương, Tỉnh Lào Cai"
+  },
+  "084": {
+    "code": "084",
+    "name": "Huyện Si Ma Cai",
+    "slug": "huyen-si-ma-cai",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Si Ma Cai, Tỉnh Lào Cai"
+  },
+  "085": {
+    "code": "085",
+    "name": "Huyện Bắc Hà",
+    "slug": "huyen-bac-ha",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Bắc Hà, Tỉnh Lào Cai"
+  },
+  "086": {
+    "code": "086",
+    "name": "Huyện Bảo Thắng",
+    "slug": "huyen-bao-thang",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Bảo Thắng, Tỉnh Lào Cai"
+  },
+  "087": {
+    "code": "087",
+    "name": "Huyện Bảo Yên",
+    "slug": "huyen-bao-yen",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Bảo Yên, Tỉnh Lào Cai"
+  },
+  "088": {
+    "code": "088",
+    "name": "Thị xã Sa Pa",
+    "slug": "thi-xa-sa-pa",
+    "unit": "Thị xã",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Thị xã Sa Pa, Tỉnh Lào Cai"
+  },
+  "089": {
+    "code": "089",
+    "name": "Huyện Văn Bàn",
+    "slug": "huyen-van-ban",
+    "unit": "Huyện",
+    "provinceCode": "10",
+    "provinceName": "Tỉnh Lào Cai",
+    "fullName": "Huyện Văn Bàn, Tỉnh Lào Cai"
+  },
+  "094": {
+    "code": "094",
+    "name": "Thành phố Điện Biên Phủ",
+    "slug": "thanh-pho-dien-bien-phu",
+    "unit": "Thành phố",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Thành phố Điện Biên Phủ, Tỉnh Điện Biên"
+  },
+  "095": {
+    "code": "095",
+    "name": "Thị Xã Mường Lay",
+    "slug": "thi-xa-muong-lay",
+    "unit": "Thị xã",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Thị Xã Mường Lay, Tỉnh Điện Biên"
+  },
+  "096": {
+    "code": "096",
+    "name": "Huyện Mường Nhé",
+    "slug": "huyen-muong-nhe",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Mường Nhé, Tỉnh Điện Biên"
+  },
+  "097": {
+    "code": "097",
+    "name": "Huyện Mường Chà",
+    "slug": "huyen-muong-cha",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Mường Chà, Tỉnh Điện Biên"
+  },
+  "098": {
+    "code": "098",
+    "name": "Huyện Tủa Chùa",
+    "slug": "huyen-tua-chua",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Tủa Chùa, Tỉnh Điện Biên"
+  },
+  "099": {
+    "code": "099",
+    "name": "Huyện Tuần Giáo",
+    "slug": "huyen-tuan-giao",
+    "unit": "Huyện",
+    "provinceCode": "11",
+    "provinceName": "Tỉnh Điện Biên",
+    "fullName": "Huyện Tuần Giáo, Tỉnh Điện Biên"
+  },
+  "undefined": {
+    "name": "Số lượng : 705",
+    "slug": "so-luong-705",
+    "fullName": "Số lượng : 705, undefined"
+  }
+}

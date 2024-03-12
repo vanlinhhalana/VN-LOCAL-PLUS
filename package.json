@@ -1,0 +1,24 @@
+{
+  "name": "vn-local-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/test.js",
+    "generate": "node src/generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanlinhhalana/VN-LOCAL-PLUS.git"
+  },
+  "author": "VanLinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanlinhhalana/VN-LOCAL-PLUS/issues"
+  },
+  "homepage": "https://github.com/vanlinhhalana/VN-LOCAL-PLUS#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "xlsx": "^0.15.1"
+  }
+}
