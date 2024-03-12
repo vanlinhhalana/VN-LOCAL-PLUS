@@ -1,8 +1,8 @@
 {
   "name": "vn-local-plus",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "VN province, city, county, address",
+  "main": "src/index.js",
   "scripts": {
     "test": "node src/test.js",
     "generate": "node src/generate"
@@ -11,6 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/vanlinhhalana/VN-LOCAL-PLUS.git"
   },
+  "keywords": [
+    "VN",
+    "VietNam",
+    "Hồ Chí Minh",
+    "Sài Gòn",
+    "Thành Phố",
+    "Tỉnh",
+    "Quận",
+    "Huyện",
+    "Xã",
+    "Phường",
+    "provice",
+    "city",
+    "district"
+  ],
   "author": "VanLinh",
   "license": "ISC",
   "bugs": {
