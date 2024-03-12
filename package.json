@@ -1,6 +1,6 @@
 {
   "name": "vn-local-plus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "VN province, city, county, address",
   "main": "src/index.js",
   "scripts": {

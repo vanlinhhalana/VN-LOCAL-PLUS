@@ -5,7 +5,7 @@ declare module "./service" {
   export function searchAndPaginateWards(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
 }
 
-declare module "VN-LOCAL-PLUS" {
+declare module "vn-local-plus" {
   export function getProvinces(): any[];
   export function getDistricts(): any[];
   export function getWards(): any[];
