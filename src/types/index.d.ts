@@ -1,4 +1,4 @@
-// declarations.d.ts
+// index.d.ts
 declare module "./service" {
   export function searchAndPaginateDistricts(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
   export function searchAndPaginateProvinces(searchText: string, page: number, pageSize: number): Promise<any[] | null>;
