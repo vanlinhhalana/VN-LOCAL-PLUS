@@ -62,7 +62,7 @@ async function searchAndPaginateDistricts({
  * @throws {Error} Throws an error if any occurs during the process.
  */
 async function searchAndPaginateWards({
-  searchText = "xa-tan-minh",
+  searchText = "",
   page = 1,
   pageSize = 20,
 }) {
