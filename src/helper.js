@@ -5,6 +5,7 @@
  * @returns {string} The slug version of the input string.
  */
 const stringToSlug = (str) => {
+  console.log('🎯 ~ file: helper.js:8 ~ stringToSlug ~ str:', str)
   if(!str){
     return ''
   }

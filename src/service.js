@@ -12,11 +12,11 @@ const path = require("path");
  * @returns {Promise<{data: Array<Object>, remainingRecords: number}>} An object containing data for the current page and the count of remaining records.
  * @throws {Error} Throws an error if any occurs during the process.
  */
-async function searchAndPaginateDistricts(
+async function searchAndPaginateDistricts({
   searchText = "",
   page = 1,
-  pageSize = 10
-) {
+  pageSize = 10,
+}) {
   try {
     // Xây dựng đường dẫn tuyệt đối đến tệp JSON
     const jsonFilePath = path.resolve(__dirname, "jsonFiles", "districts.json");
@@ -118,11 +118,11 @@ async function searchAndPaginateWards({
  * @returns {Promise<{data: Array<Object>, remainingRecords: number}>} An object containing data for the current page and the count of remaining records.
  * @throws {Error} Throws an error if any occurs during the process.
  */
-async function searchAndPaginateProvinces(
+async function searchAndPaginateProvinces({
   searchText = "",
   page = 1,
-  pageSize = 20
-) {
+  pageSize = 20,
+}) {
   try {
     // Xây dựng đường dẫn tuyệt đối đến tệp JSON
     const jsonFilePath = path.resolve(__dirname, "jsonFiles", "provinces.json");
