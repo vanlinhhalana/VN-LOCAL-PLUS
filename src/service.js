@@ -1,4 +1,4 @@
-const fs = require("fs-extra");
+const { readFileSync } = require('fs');
 const { stringToSlug } = require("./helper");
 const path = require("path");
 
@@ -22,7 +22,7 @@ async function searchAndPaginateDistricts({
     const jsonFilePath = path.resolve(__dirname, "jsonFiles", "districts.json");
 
     // Read data from the JSON file
-    const jsonData = await fs.readJson(jsonFilePath);
+    const jsonData = JSON.parse(readFileSync(jsonFilePath));
 
     const slugForSearch = stringToSlug(searchText);
 
@@ -75,7 +75,7 @@ async function searchAndPaginateWards({
     const jsonFilePath = path.resolve(__dirname, "jsonFiles", "wards.json");
 
     // Read data from the JSON file
-    const jsonData = await fs.readJson(jsonFilePath);
+    const jsonData = JSON.parse(readFileSync(jsonFilePath));
 
     const slugForSearch = stringToSlug(searchText);
 
@@ -128,7 +128,7 @@ async function searchAndPaginateProvinces({
     const jsonFilePath = path.resolve(__dirname, "jsonFiles", "provinces.json");
 
     // Read data from the JSON file
-    const jsonData = await fs.readJson(jsonFilePath);
+    const jsonData = JSON.parse(readFileSync(jsonFilePath));
 
     const slugForSearch = stringToSlug(searchText);
 
