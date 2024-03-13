@@ -67,6 +67,9 @@ async function searchAndPaginateWards({
   pageSize = 20,
 }) {
   try {
+
+    const slugForSearch = stringToSlug(searchText);
+
     // Filter data based on the "name" field
     const filteredData = wardsData.filter((item) =>
       item.slug.toLowerCase().includes(slugForSearch)
