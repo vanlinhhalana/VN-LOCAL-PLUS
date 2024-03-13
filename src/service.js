@@ -1,6 +1,8 @@
-const { readFileSync } = require('fs');
 const { stringToSlug } = require("./helper");
-const path = require("path");
+const provincesData = require("./jsonFiles/provinces.json");
+const districtsData = require("./jsonFiles/districts.json");
+const wardsData = require("./jsonFiles/wards.json");
+
 
 /**
  * Search and paginate through a list of Districts.
@@ -18,16 +20,10 @@ async function searchAndPaginateDistricts({
   pageSize = 10,
 }) {
   try {
-    // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "districts.json");
-
-    // Read data from the JSON file
-    const jsonData = JSON.parse(readFileSync(jsonFilePath));
-
     const slugForSearch = stringToSlug(searchText);
 
     // Filter data based on the "name" field
-    const filteredData = jsonData.filter((item) =>
+    const filteredData = districtsData.filter((item) =>
       item.slug.toLowerCase().includes(slugForSearch)
     );
 
@@ -71,16 +67,8 @@ async function searchAndPaginateWards({
   pageSize = 20,
 }) {
   try {
-    // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "wards.json");
-
-    // Read data from the JSON file
-    const jsonData = JSON.parse(readFileSync(jsonFilePath));
-
-    const slugForSearch = stringToSlug(searchText);
-
     // Filter data based on the "name" field
-    const filteredData = jsonData.filter((item) =>
+    const filteredData = wardsData.filter((item) =>
       item.slug.toLowerCase().includes(slugForSearch)
     );
 
@@ -124,16 +112,11 @@ async function searchAndPaginateProvinces({
   pageSize = 20,
 }) {
   try {
-    // Xây dựng đường dẫn tuyệt đối đến tệp JSON
-    const jsonFilePath = path.resolve(__dirname, "jsonFiles", "provinces.json");
-
-    // Read data from the JSON file
-    const jsonData = JSON.parse(readFileSync(jsonFilePath));
 
     const slugForSearch = stringToSlug(searchText);
 
     // Filter data based on the "name" field
-    const filteredData = jsonData.filter((item) =>
+    const filteredData = provincesData.filter((item) =>
       item.slug.toLowerCase().includes(slugForSearch)
     );
 
