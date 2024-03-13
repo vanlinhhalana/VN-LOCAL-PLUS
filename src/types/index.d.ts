@@ -27,7 +27,7 @@ declare module "vn-local-plus" {
     searchText?: string;
     page?: number;
     pageSize?: number;
-  }): Promise<any[] | null>;
+  }): Promise<{data: Array<Object>, remainingRecords: number}>;
 
   /**
    * Search and paginate through a list of Provinces.
@@ -47,7 +47,7 @@ declare module "vn-local-plus" {
     searchText?: string;
     page?: number;
     pageSize?: number;
-  }): Promise<any[] | null>;
+  }): Promise<{data: Array<Object>, remainingRecords: number}>;
 
   /**
    * Search and paginate through a list of wards.
@@ -67,5 +67,5 @@ declare module "vn-local-plus" {
     searchText?: string;
     page?: number;
     pageSize?: number;
-  }): Promise<any[] | null>;
+  }): Promise<{data: Array<Object>, remainingRecords: number}>;
 }
