@@ -28,7 +28,7 @@ async function searchAndPaginateDistricts({
     );
 
     //total records
-    const totalRecords = filteredData?.length;
+    const totalRecords = filteredData.length;
 
     let remainingRecords = 0;
     if (totalRecords > 0) {
@@ -76,7 +76,7 @@ async function searchAndPaginateWards({
     );
 
     //total records
-    const totalRecords = filteredData?.length;
+    const totalRecords = filteredData.length;
 
     let remainingRecords = 0;
     if (totalRecords > 0) {
@@ -124,7 +124,7 @@ async function searchAndPaginateProvinces({
     );
 
     //total records
-    const totalRecords = filteredData?.length;
+    const totalRecords = filteredData.length;
 
     let remainingRecords = 0;
     if (totalRecords > 0) {
